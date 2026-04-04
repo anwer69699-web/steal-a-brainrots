@@ -5,7 +5,7 @@ local set_clipboard = setclipboard or toclipboard or print
 
 -- إعدادات الحركة
 local CONFIG = {
-    Base = { H_Speed = 27.2, V_Speed = 50, StopDist = 23, MaxH = 17, DiveDist = 30 }, 
+    Base = { H_Speed = 27.2, V_Speed = 45, StopDist = 23, MaxH = 14, DiveDist = 30 }, 
     Order = { H_Speed = 48, V_Speed = 48, StopDist = 15, MaxH = 20, DiveDist = 50 }, 
     Chase = { H_Speed = 48, V_Speed = 48, StopDist = 0, MaxH = 999, DiveDist = 30 }
 }
