@@ -1,1 +1,2610 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local Y={"\122\107\065\066\086\055\048\061";"\116\117\087\087\100\055\065\118\122\055\122\077\052\117\065\073\108\055\090\061";"\086\078\105\061";"\100\106\108\079\089\105\110\121\110\114\061\061";"\107\117\081\119\120\103\061\061";"\072\073\110\077\104\115\113\073\070\119\065\048\100\074\121\075","\110\115\108\103\089\073\113\105\072\115\071\087\089\119\082\101\116\115\047\061","\120\119\121\079\122\072\061\061","\086\104\113\079\116\114\061\061","\107\117\081\049\122\104\054\061","\074\104\090\109\116\107\082\111\056\052\114\066\102\115\090\109\122\119\072\061","\089\115\050\071\086\055\122\121","\120\109\067\067\089\051\061\061","\110\104\057\103\120\104\082\084";"\116\050\067\109\116\047\057\057\072\104\057\083\108\047\050\120\074\050\121\090";"\089\085\082\067\086\085\103\061";"\107\117\081\071\122\107\108\067\110\085\113\075\086\085\074\061";"\070\047\054\111\102\085\087\079\082\074\057\047\100\085\067\118";"\086\085\081\067\122\106\082\079\089\115\121\101\122\103\061\061";"\056\051\061\061";"\100\097\050\088","\050\085\113\071\089\085\050\066\048\105\108\121\110\085\050\073\110\085\050\047\048\072\061\061";"\120\109\081\101\120\109\113\079","\072\097\067\121\102\047\057\070\122\055\089\061";"\122\109\113\071\122\072\061\061","\052\050\082\083\108\055\121\117\052\055\113\050\052\052\110\085\089\052\089\061","\072\107\110\106\052\107\065\111\082\074\070\117\122\109\072\117\120\097\089\061","\056\075\051\121\122\098\090\087\056\051\061\061";"\110\085\081\101\110\104\117\075\122\107\048\061","\082\055\067\052\086\085\090\097\082\107\110\090\110\107\082\049\056\105\048\061";"\110\085\081\097\110\106\065\087\086\115\089\061","\100\074\087\065\102\107\114\079\104\113\065\113\122\117\069\065";"\086\078\048\061";"\089\055\108\066\116\104\057\119","\074\104\070\109\089\085\081\047\070\079\082\050\074\107\122\080\100\055\047\061","\110\085\113\075\086\085\074\061","\089\109\050\079\086\104\050\079\120\107\108\067\120\115\111\121","\122\055\082\117\120\051\061\061";"\072\119\048\061";"\086\085\050\101";"\100\121\048\109\097\115\047\117\089\111\106\083\053\055\054\082\087\066\080\056\098\075\100\057\085\118\121\113\052\098\067\078\100\047\057\067\119\120\052\115\048\105\105\047\120\122\071\084\052\066\068\049\076\102\047\109\047\053\079\117\043\057\111\108\098\073\053\090\097\084\075\104\112\076\121\052\052\056\104\112\047\082\048\073\068\088\101\107\099\119\083\050\114\047\068\077\110\105\101\119\055\109\049\073\103\090\069\047\101\089\120\061";"\122\109\117\067\110\085\082\090","\089\115\113\101\122\085\081\071","\116\107\121\117\070\104\108\056\050\121\050\108\110\105\065\088","\122\115\111\080\086\055\048\061","\107\117\081\087\086\115\108\121\102\114\061\061";""}local function F(F)return Y[F+(-117726+119177)]end for F,Q in ipairs({{545972-545971;864841-864794};{465224+-465223,230392+-230350};{233063-233020;-957543+957590}})do while Q[-940722+940723]<Q[-1012501+1012503]do Y[Q[-466096+466097]],Y[Q[1001086+-1001084]],Q[-378331+378332],Q[-763013-(-763015)]=Y[Q[-516542+516544]],Y[Q[534079-534078]],Q[-974353-(-974354)]+(-664456+664457),Q[473569-473567]-(-231236-(-231237))end end do local F=string.len local Q=string.char local f=table.concat local h=Y local X=math.floor local B={K=935372-935338;J=922594+-922574;["\053"]=1016659+-1016649,["\051"]=144489-144457;["\047"]=298024+-297988;W=-457360-(-457401),r=658350+-658350,u=18371-18318,h=455187+-455165,g=-217623-(-217671);w=-97893-(-97932);["\048"]=630481-630473;q=1047119-1047114;l=-307987-(-308004);s=-37164-(-37202);["\050"]=-652792-(-652813);p=-225120+225183,d=-450976-(-450994);n=855893-855864;o=35438-35389,I=717936+-717901;x=77132-77108;t=810685+-810659;e=-268390+268436,a=292280+-292229,R=129029-129016;c=-140739+140798,["\057"]=357496-357439;H=838751+-838735;F=641347+-641335,v=876081+-876066,B=-531373-(-531423),j=56558+-56551;O=884669-884617;U=343463-343457,Y=952350-952322;T=133291+-133248,C=427094-427061;A=753241+-753232,D=373396+-373334;["\054"]=-866298-(-866354),["\052"]=-165040+165059,["\055"]=685060-685005,k=-114389-(-114412),M=682025+-681983;G=-79834+79879,["\043"]=82089-82029;Z=895477-895437,["\049"]=947635-947591,E=-269429-(-269430),Q=-848821-(-848882);["\056"]=-383194-(-383208);N=-158100-(-158103),i=473748+-473744,L=-18078+18109,X=696350+-696292,m=-474167-(-474221),f=855608-855578;b=-444059+444061,P=-92742-(-92789);S=-59291+59302;z=198683+-198658;y=-1013140-(-1013177),V=283186+-283159}local l=table.insert local L=type local Z=string.sub for Y=-58118+58119,#h,-328076+328077 do local S=h[Y]if L(S)=="\115\116\114\105\110\103"then local L=F(S)local j={}local u=335378-335377 local N=569413+-569413 local z=138553-138553 while u<=L do local Y=Z(S,u,u)local F=B[Y]if F then N=N+F*(759567-759503)^((-893760+893763)-z)z=z+(-483589-(-483590))if z==888500+-888496 then z=1000143+-1000143 local Y=X(N/(1089257-1023721))local F=X((N%(465818-400282))/(-116728+116984))local f=N%(-629952-(-630208))l(j,Q(Y,F,f))N=429422+-429422 end elseif Y=="\061"then l(j,Q(X(N/(-893240-(-958776)))))if u>=L or Z(S,u+(-950107-(-950108)),u+(31135-31134))~="\061"then l(j,Q(X((N%(234101+-168565))/(-429871+430127))))end break end u=u+(649023+-649022)end h[Y]=f(j)end end end return(function(Y,f,h,X,B,l,L,S,u,Q,N,z,Z,v,c,T,M,g,J,j)u,J,Z,z,Q,S,v,M,N,T,j,g,c=458909-458909,function(Y,F)local f=N(F)local h=function(h)return Q(Y,{h},F,f)end return h end,{},function(Y)local F,Q=74267-74266,Y[-549050-(-549051)]while Q do S[Q],F=S[Q]-(-386066+386067),(250816-250815)+F if 523354+-523354==S[Q]then S[Q],Z[Q]=nil,nil end Q=Y[F]end end,function(Q,h,X,B)local A,K,O,d,H,y,u,U,R,N,w,i,G,t,e,s,g,S,W,k,I,p,V,o,r,a,b,E,D,q,C,z,x,L while Q do if Q<600974+7384271 then if Q<-50692+4963777 then if Q<3091795-199909 then if Q<2078022-362584 then if Q<-634986+1900506 then if Q<1035029+-140369 then if Q<260235-(-45732)then N=-397144-(-397144)S=F(-693102+691694)Q=Y[S]u=Z[X[860785+-860777]]S=Q(u,N)Q=2617116-924039 else Q=Y[F(840289-841727)]L={}end else Q=Z[X[142548+-142547]]p=667006+-667006 D=335007-334752 y=Q(p,D)Q=605232+13811298 u=N S[u]=y u=nil end else if Q<1456971-(-53735)then I=Z[u]L=I Q=I and 14982781-(-215038)or-704348+3772098 else Q={}S=Q N=Z[X[-178257-(-178266)]]u=707603-707602 z=N N=244880-244879 g=N N=790638+-790638 Q=15000580-584050 C=g<N N=u-g end end else if Q<1727878-(-409022)then if Q<-161481+1984543 then R=Z[u]I=R Q=R and-576970+3467493 or 12907692-872938 else L=773741+357255 u=F(-419012+417595)N=7522197-(-968588)S=u^N Q=L-S S=Q L=F(-276780-(-275348))Q=L/S L={Q}Q=Y[F(-260412+258986)]end else if Q<913354+1900395 then U=Z[u]s=U Q=U and 12518690-(-524642)or 4666050-82449 else K=-699848+699849 R=t[K]Q=532338+11502416 I=R end end end else if Q<-722153+5310583 then if Q<-411658+4279565 then if Q<-787131+4370594 then if Q<-799828+4050686 then Z[u]=L Q=8943083-954681 else L=F(167607+-169015)Q=Y[L]S=F(234079+-235513)L=Q(S)L={}Q=Y[F(-498097-(-496668))]end else L=I Q=R Q=3748013-680263 end else if Q<4913696-741728 then s=s+i L=s<=U k=not q L=k and L k=s>=U k=q and k L=k or L k=1007769+14434196 Q=L and k L=-182433+2864744 Q=Q or L else Z[u]=s Q=Z[u]Q=Q and 6156289-658522 or 10673861-(-8784)end end else if Q<4840031-223127 then if Q<273049+4328731 then Q=1026017+4415047 else z=j()S=h Q=true y=F(954679-956119)N=F(744146-745568)u=j()g=j()p=c(9979182-(-341301),{g})Z[u]=Q L=Y[N]N=F(-508817-(-507403))Q=L[N]N=j()Z[N]=Q Q=J(3170649-(-366177),{})Z[z]=Q Q=false Z[g]=Q C=Y[y]y=C(p)L=y Q=y and 918235+4070984 or 12788695-(-314780)end else if Q<5136885-430664 then V=j()b=nil d=nil d=21226725629994-(-706162)Q=Y[F(-961840-(-960390))]w=F(363730+-365140)G=F(-746907+745488)y=nil q=T(590382+4934860,{V,D;H;g})O={}p=nil K=nil Z[V]=O O=j()t=F(830647+-832086)k=j()Z[O]=q q={}C=nil Z[k]=q g=M(g)z=nil q=Y[G]E={}g=F(-363698+362261)a=Z[k]A={[w]=a,[t]=K}G=q(E,A)q=c(-423039+15318445,{k,V,o,D,H;O})y=F(-781429+779998)o=M(o)N=q O=M(O)V=M(V)D=M(D)z=Y[g]u=G C=Y[y]k=M(k)H=M(H)H=F(-457742-(-456327))D=N(H,d)p=u[D]D=F(-398569+397164)D=C[D]y={D(C,p)}g=z(f(y))u=nil z=g()N=nil L={}else C=nil z=nil y=nil Q=-679376+6110852 end end end end else if Q<-359903+6356248 then if Q<775763+4656222 then if Q<720484+4603795 then if Q<-963297+6111974 then if Q<4431177-(-615264)then C=Z[g]Q=13263222-159747 L=C else L=F(805610-807037)Q=Y[L]D=c(-596534+12745899,{})S=Z[X[-386104+386108]]z=F(3184+-4609)N=Y[z]p=F(700248-701688)y=Y[p]p={y(D)}C={f(p)}y=-996432+996434 g=C[y]z=N(g)N=F(-482990-(-481562))u=S(z,N)S={u()}L=Q(f(S))S=L u=Z[X[408184+-408179]]L=u Q=u and 13016124-(-929868)or 10188574-820587 end else Q=Y[F(-179126-(-177702))]L={}end else if Q<937837+4471573 then u=Z[X[315542-315540]]Q=-782262+7942408 N=Z[X[-170149+170152]]S=u==N L=S else Q=Y[F(-260335-(-258905))]L={u}end end else if Q<-919705+6422580 then if Q<691569+4776854 then Q=true Q=Q and-56048+12182236 or 5145672-(-50605)else Q=741420+11535633 end else if Q<39063+5528816 then S=Z[X[-400471-(-400472)]]L=#S S=-791608+791608 Q=L==S Q=Q and 14274498-498923 or 10796237-(-967716)else L=D Q=H Q=D and 1035489+11050113 or 12342460-(-932937)end end end else if Q<-567014+7612422 then if Q<5817826-(-837253)then if Q<5996022-(-366282)then if Q<5298861-(-852525)then Q=true Q=Q and-240774+7856433 or-835289+1202710 else i=F(-720882-(-719460))p=H U=Y[i]i=F(-963244+961796)s=U[i]U=s(S,p)s=Z[X[812359+-812353]]i=s()V=U+i O=V+C Q=253054+11830895 i=114987-114986 p=nil V=-251263+251519 b=O%V V=N[u]C=b U=C+i s=z[U]O=V..s N[u]=O end else Q=10431951-447973 O=V E=O b[O]=E O=nil end else if Q<7116636-265806 then N=243043+-243011 u=Z[X[-641235+641238]]S=u%N d=331293+-331280 z=Z[X[-914273-(-914277)]]D=741230-741228 y=Z[X[-199140-(-199142)]]O=Z[X[346666+-346663]]b=O-S O=833124+-833092 o=b/O H=d-o p=D^H d=-914731-(-914987)C=y/p p=-494580-(-494581)g=z(C)z=223760+4294743536 N=g%z g=-501245-(-501247)z=g^S u=N/z z=Z[X[603253+-603249]]y=u%p p=-106387+4295073683 C=y*p g=z(C)z=Z[X[203926-203922]]y=186324-120788 C=z(u)N=g+C g=-748453+813989 z=N%g S=nil C=N-z Q=11585519-(-178434)D=455201+-454945 g=C/y u=nil y=-838806-(-839062)C=z%y p=z-C y=p/D N=nil D=908041+-907785 p=g%D z=nil H=g-p D=H/d g=nil H={C,y;p,D}y=nil p=nil Z[X[350441+-350440]]=H C=nil D=nil else g=18084-18082 z=862747-862746 u=Z[X[478732+-478731]]N=u(z,g)u=-191194-(-191195)S=N==u L=S Q=S and 6874289-(-285857)or 5917255-563747 end end else if Q<-541195+8157690 then if Q<-779370+8130296 then Q=L and 4117160-(-1020786)or-1048448+10047782 else Q=Z[y]q=-76528+76534 i=-250993-(-250994)U=Q(i,q)Q=F(-591231+589808)Y[Q]=U q=F(428112+-429535)i=Y[q]q=109047-109045 Q=i>q Q=Q and 14546477-(-699179)or 12235904-444213 end else if Q<7628121-(-137432)then q=193754-193754 V=#b O=V==q Q=O and 4508945-(-147240)or-151649+13545984 else Q=979366+14302552 N=292452-292240 u=Z[X[-680531-(-680534)]]S=u*N u=1017676+-1017419 L=S%u Z[X[-953801+953804]]=L end end end end end else if Q<11237598-(-895368)then if Q<10889776-233325 then if Q<-804120+10617185 then if Q<-209467+9250289 then if Q<8612653-309227 then if Q<-74208+8102862 then A=M(A)a=M(a)k=M(k)Q=-237420+4113959 w=M(w)E=M(E)t=nil G=M(G)else Q=503594+4927882 end else Q=Z[X[-893992+893999]]Q=Q and-1041183+1283481 or 984104+708973 end else if Q<8773166-(-539870)then Q=T(199462+4396343,{z})U={Q()}Q=Y[F(358319+-359740)]L={f(U)}else Z[X[-560215+560220]]=L S=nil Q=8668213-(-331121)end end else if Q<-167088+10271208 then if Q<431657+9607065 then E=not G V=V+k O=V<=q O=E and O E=V>=q E=G and E O=E or O E=6056062-(-596410)Q=O and E O=10725331-(-798763)Q=Q or O else Q=6180418-102030 end else if Q<10609472-315167 then Q=true Q=Q and 494005+9569256 or 414970+8689085 else Q=true Z[X[-221132-(-221133)]]=Q Q=Y[F(352224+-353673)]L={}end end end else if Q<11092651-(-844695)then if Q<12347346-616252 then if Q<-425189+11933133 then if Q<-135201+11130015 then Q=true Q=8151933-(-952122)else Q={}Z[X[917975-917973]]=Q y=241527+-241272 p=F(-534971-(-533549))L=Z[X[-890556+890559]]z=L g=35184372947986-859154 L=u%g Z[X[389729-389725]]=L C=u%y y=236085-236083 g=C+y Z[X[-588166+588171]]=g Q=12994649-910700 H=338065-338064 y=Y[p]p=F(843714-845130)C=y[p]y=C(S)d=H C=F(483518-484927)p=-975891+975892 N[u]=C D=y H=401901-401901 o=d<H C=-832970+833119 H=p-d end else V=#b q=424450+-424450 O=V==q Q=-713045+14107380 end else if Q<12106337-341892 then N=F(758013-759433)u=Y[N]N=F(1044665+-1046109)S=u[N]Q=Y[F(-36327+34882)]N=Z[X[297569-297568]]u={S(N)}L={f(u)}else q=F(112712+-114135)Q=Y[q]q=F(-614898-(-613492))Y[q]=Q Q=16703496-(-15579)end end else if Q<12525773-440670 then if Q<-894398+12939301 then r=610569+-610568 Z[u]=I x=Z[A]W=x+r K=t[W]R=d+K K=907771-907515 Q=R%K d=Q W=Z[E]K=o+W W=39002-38746 Q=8871291-882889 R=K%W o=R else H=H+d p=H<=D b=not o p=b and p b=H>=D b=o and b p=b or p b=-590538+6816021 Q=p and b p=182819+4536467 Q=Q or p end else if Q<-774676+12868463 then d=777639+-777574 D=j()b=F(-585948-(-584508))H=36587+-36584 Z[D]=L O=T(80979+1992801,{})Q=Z[y]L=Q(H,d)H=j()i=F(202237+-203662)Q=862643-862643 d=Q Z[H]=L L=Y[b]Q=-856901+856901 o=Q b={L(O)}Q={f(b)}L=662989-662987 b=Q Q=b[L]L=F(185183-186610)O=Q Q=Y[L]V=Z[N]U=Y[i]i=U(O)U=F(707688+-709116)s=V(i,U)V={s()}L=Q(f(V))V=j()Z[V]=L Q=3220252-(-656287)L=-375945-(-375946)s=Z[H]U=s s=-681482+681483 i=s s=-507959+507959 q=i<s s=L-i else S=F(98937+-100343)L=F(428671-430094)Q=Y[L]L=Y[S]S=F(824668-826074)Y[S]=Q S=F(-630650+629227)Y[S]=L S=Z[X[710863+-710862]]u=S()Q=17433+5423631 end end end end else if Q<13501639-(-288042)then if Q<13522324-137114 then if Q<12314984-(-751657)then if Q<13542522-832322 then if Q<-147409+12298914 then L=935234+5015450 u=F(835576-837011)N=7519385-268751 S=u^N Q=L-S L=F(6379+-7820)S=Q Q=L/S L={Q}Q=Y[F(591473-592885)]else C=nil u=M(u)C=F(-77421+75974)o=nil O=nil u=nil p=nil H=M(H)V=M(V)b=nil g=M(g)D=M(D)d=nil z=M(z)g=Y[C]N=M(N)o=j()b={}p=F(-937242+935822)y=M(y)C=F(405663-407074)N=nil z=g[C]y=F(49397+-50844)g=j()D=F(867212-868634)Z[g]=z C=Y[y]y=F(-758051-(-756638))z=C[y]y=Y[p]p=F(-137335+135891)Q=-906616+10890594 C=y[p]d={}p=Y[D]D=F(-1047471+1046028)H=j()y=p[D]D=j()p=596698-596698 O=34468+-34467 Z[D]=p V=-376302+376558 p=188312-188310 Z[H]=p p={}Z[o]=d q=V d=425569-425569 V=-1014265-(-1014266)k=V V=935264+-935264 G=k<V V=O-k end else U=d==o Q=-988980+5572581 s=U end else if Q<-201570+13469391 then y=F(-160510+159063)p=F(299423+-300843)C=L L=Y[y]o=F(-629936+628516)y=F(-413747-(-412334))Q=L[y]y=j()Z[y]=Q L=Y[p]p=F(-602730+601297)Q=L[p]H=Q p=Q d=Y[o]D=d Q=d and 321337+13320112 or 933609+5047719 else H=F(230698-232140)D=Y[H]L=D Q=-563864+12649466 end end else if Q<12872809-(-755020)then if Q<978957+12486149 then V=-224022+224023 q=#b E=-1037903-(-1037904)O=z(V,q)V=C(b,O)q=Z[o]O=nil G=V-E k=y(G)Q=657095+6961109 q[V]=k V=nil else Q=Z[X[-238984+238994]]u=Z[X[525932-525921]]S[Q]=u Q=Z[X[-1028771+1028783]]u={Q(S)}L={f(u)}Q=Y[F(-917622-(-916215))]end else if Q<1027873+12674227 then b=F(-765320-(-763900))o=Y[b]b=F(-608766+607324)Q=5379304-(-602024)d=o[b]D=d else N=105674-105661 u=Z[X[-389946+389948]]S=u*N u=11224971792956-97745 L=S+u S=-39433+35184372128265 u=-976729+976730 Q=L%S Z[X[-688058+688060]]=Q S=Z[X[-566975+566978]]L=S~=u Q=7262131-(-682493)end end end else if Q<15518444-300485 then if Q<14201977-(-683581)then if Q<14239896-(-568112)then if Q<-424721+14781215 then N=Z[X[447515-447509]]u=N==S L=u Q=-937100+10305087 else y=not C N=N+g u=N<=z u=y and u y=N>=z y=C and y u=y or u y=1269063-354897 Q=u and y u=13110175-(-494043)Q=Q or u end else x=-448280+448282 W=t[x]x=Z[a]K=W==x I=K Q=4602016-926672 end else if Q<-189877+15374921 then S=h[815082+-815081]Q=Z[X[576309+-576308]]u=h[832026+-832024]N=Q Q=N[u]Q=Q and 877334+7224834 or 269436+11209169 else x=138673-138672 W=t[x]x=false R=Q K=W==x Q=K and 14245414-(-620565)or-1038780+4714124 I=K end end else if Q<15086148-(-323598)then if Q<15342673-75443 then i=F(-777390+775965)k=F(754375+-755781)Q=Y[i]q=Y[k]i=Q(q)Q=F(-471101-(-469678))Y[Q]=i Q=455703+16263372 else N=-417735-(-417736)u=Z[X[-494300-(-494303)]]S=u~=N Q=S and-898071+7588381 or-429977+8374601 end else if Q<16881979-988016 then G=F(135618-137065)k=j()Z[k]=s L=Y[G]E=-331746+331846 G=F(-85025-(-83612))A=1003471-1003216 r=225103+-225103 K=F(692571-693996)Q=L[G]G=810726-810725 L=Q(G,E)a=458561-458560 E=-154827-(-154827)G=j()Z[G]=L Q=Z[y]L=Q(E,A)A=-622070+622071 E=j()Z[E]=L t=-377452-(-377454)Q=Z[y]w=Z[G]e=-624240+634240 L=Q(A,w)A=j()Z[A]=L L=Z[y]w=L(a,t)t=F(1015724+-1017160)L=-888722+888723 Q=w==L w=j()L=F(-543047+541619)Z[w]=Q R=Y[K]W=Z[y]x={W(r,e)}Q=F(620649-622067)K=R(f(x))R=F(476926+-478362)I=K..R Q=O[Q]a=t..I t=F(755082-756522)Q=Q(O,L,a)a=j()Z[a]=Q I=v(535637+6358677,{y,k,H,N,u,V;w,a;G,A;E,D})L=Y[t]t={L(I)}Q={f(t)}t=Q Q=Z[w]Q=Q and-678006+2120871 or 2181621-464307 else Q=6714605-636217 end end end end end end end Q=#B return f(L)end,{},function(Y,F)local f=N(F)local h=function(h,X,B)return Q(Y,{h;X;B},F,f)end return h end,function(Y)S[Y]=S[Y]-(59057-59056)if-703982+703982==S[Y]then S[Y],Z[Y]=nil,nil end end,function(Y)for F=478548-478547,#Y,-61199+61200 do S[Y[F]]=(258588-258587)+S[Y[F]]end if h then local Q=h(true)local f=B(Q)f[F(-879548-(-878138))],f[F(-770284+768880)],f[F(149997-151443)]=Y,z,function()return 4417504-1042038 end return Q else return X({},{[F(-426366+424962)]=z;[F(-129019+127609)]=Y;[F(-171764+170318)]=function()return 3183452-(-192014)end})end end,function(Y,F)local f=N(F)local h=function()return Q(Y,{},F,f)end return h end,function()u=u+(-853599-(-853600))S[u]=490941-490940 return u end,function(Y,F)local f=N(F)local h=function(...)return Q(Y,{...},F,f)end return h end,function(Y,F)local f=N(F)local h=function(h,X,B,l,L)return Q(Y,{h,X;B,l,L},F,f)end return h end return(g(622934+3985780,{}))(f(L))end)(getfenv and getfenv()or _ENV,unpack or table[F(-735169-(-733727))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+--[[
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘             AETHER HUB V4  â€”  ULTIMATE EDITION              â•‘
+â•‘   Platform : Mobile + PC  |  Full Systems  |  Clean Code    â•‘
+â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
+â•‘  [+] Owner key works for ANY user (no UID restriction)      â•‘
+â•‘  [+] Free key works perfectly                               â•‘
+â•‘  [+] Premium notification system (icons + colors + anim)    â•‘
+â•‘  [+] Adaptive layout â€” measures screen first, fits all      â•‘
+â•‘  [+] Drag fixed â€” polls InputObject, zero camera bug        â•‘
+â•‘  [+] Active buttons â†’ green text + animated glow            â•‘
+â•‘  [+] Settings: organized, scrollable, functional            â•‘
+â•‘  [+] Galaxy: jump boost ONLY, adjustable power              â•‘
+â•‘  [+] Lock: Y-axis rotation ONLY, no forced movement         â•‘
+â•‘  [+] Auto Steal loop (continuous proximity prompt fire)      â•‘
+â•‘  [+] Fly mode (toggle, adjustable speed)                    â•‘
+â•‘  [+] NoClip (ghost through walls)                           â•‘
+â•‘  [+] Anti-AFK                                               â•‘
+â•‘  [+] Rejoin button                                          â•‘
+â•‘  [+] Chat spy (local ESP chat labels)                       â•‘
+â•‘  [+] Highlight ESP (red highlight on enemies)               â•‘
+â•‘  [+] Speed steal radius slider                              â•‘
+â•‘  [+] Auto collect (auto-steal all nearby)                   â•‘
+â•‘  [+] Better minimize/maximize with smooth animation         â•‘
+â•‘  [+] Gradient border on ALL elements                        â•‘
+â•‘  [+] TextEffect gradient speed from SS table                â•‘
+â•‘  [+] pcall everywhere â€” zero crash guarantee                â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+]]
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [1] SPEED SETTINGS â€” controls all animation speeds
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local SS = {
+    MainBorder   = 7,    -- main frame border rotation speed
+    ButtonBorder = 0.6,  -- button border rotation speed
+    RowBorder    = 2.2,  -- row/card border rotation speed
+    TextEffect   = 0.8,  -- text gradient rotation speed
+    SliderTrack  = 1.8,  -- slider border speed
+    CloseBtn     = 3.5,  -- close/min button border speed
+    Divider      = 2.5,  -- divider glow speed
+    KeybindBox   = 2.0,  -- keybind label border speed
+    NotifBorder  = 4.0,  -- notification card border speed
+    Pulse        = 0.04, -- heartbeat delay for pulse effects
+}
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [2] SERVICES
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+repeat task.wait() until game:IsLoaded()
+
+local Players          = game:GetService("Players")
+local RunService       = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService     = game:GetService("TweenService")
+local Lighting         = game:GetService("Lighting")
+local HttpService      = game:GetService("HttpService")
+local StarterGui       = game:GetService("StarterGui")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Player           = Players.LocalPlayer
+local Camera           = workspace.CurrentCamera
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [3] PLATFORM
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local IS_MOBILE = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
+local IS_PC     = not IS_MOBILE
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [4] KEY CONFIG
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local KC = {
+    KeysURL     = "https://pastebin.com/raw/YOUR_PASTE_ID",
+    MaxKeyLen   = 32,
+    -- Owner key: works for ANY player who enters it
+    OwnerKey    = "AETHER-OWNER-X7K9P2LQ8Z1M5T",
+    -- Free key: works for everyone, grants full access
+    FreeKey     = "AETHER-FREE-2024XZQMVR",
+    FreeEnabled = true,
+}
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [5] THEME
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local C = {
+    bg        = Color3.fromRGB(6,   10,  18),
+    card      = Color3.fromRGB(13,  19,  30),
+    cardHov   = Color3.fromRGB(18,  28,  44),
+    border    = Color3.fromRGB(45,  75,  130),
+    text      = Color3.fromRGB(235, 242, 255),
+    textDim   = Color3.fromRGB(155, 175, 210),
+    accent    = Color3.fromRGB(75,  145, 255),
+    success   = Color3.fromRGB(55,  215, 125),
+    danger    = Color3.fromRGB(255, 60,  75),
+    warn      = Color3.fromRGB(255, 185, 50),
+    gold      = Color3.fromRGB(255, 205, 45),
+    neon      = Color3.fromRGB(95,  195, 255),
+    purple    = Color3.fromRGB(155, 90,  255),
+    btnOff    = Color3.fromRGB(16,  24,  38),
+    btnOn     = Color3.fromRGB(8,   46,  28),
+    textOn    = Color3.fromRGB(55,  235, 125),
+    gradA     = Color3.fromRGB(55,  95,  200),
+    gradB     = Color3.fromRGB(145, 195, 255),
+    gradC     = Color3.fromRGB(255, 255, 255),
+}
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [6] UTILITY
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local function tag(i)
+    pcall(function() i:SetAttribute("AHV4", true) end)
+end
+
+local function mkCorner(p, r)
+    local c = Instance.new("UICorner", p)
+    c.CornerRadius = UDim.new(0, r or 8)
+    return c
+end
+
+local function mkPad(p, t, b, l, r)
+    local pad = Instance.new("UIPadding", p)
+    pad.PaddingTop    = UDim.new(0, t or 0)
+    pad.PaddingBottom = UDim.new(0, b or 0)
+    pad.PaddingLeft   = UDim.new(0, l or 0)
+    pad.PaddingRight  = UDim.new(0, r or 0)
+    return pad
+end
+
+local function tween(obj, props, t, style, dir)
+    return TweenService:Create(obj,
+        TweenInfo.new(t or 0.18, style or Enum.EasingStyle.Quart, dir or Enum.EasingDirection.Out),
+        props
+    )
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [7] DEEP CLEANUP
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local function deepClean()
+    local names = {
+        "Aether Hub V4","Aether Hub V3","Aether_KeySystem",
+        "AetherV4_Notif","AetherV4_CoordESP","AetherV4_ESP",
+        "AetherV4_Highlights","AetherV4_ChatSpy",
+    }
+    for _, n in ipairs(names) do
+        pcall(function() local g = Player.PlayerGui:FindFirstChild(n); if g then g:Destroy() end end)
+        pcall(function() local f = workspace:FindFirstChild(n);       if f then f:Destroy() end end)
+    end
+    pcall(function()
+        for _, c in ipairs(Player.PlayerGui:GetChildren()) do
+            if c:GetAttribute("AHV4") then c:Destroy() end
+        end
+        for _, c in ipairs(workspace:GetChildren()) do
+            if c:GetAttribute("AHV4") then c:Destroy() end
+        end
+        for _, c in ipairs(Lighting:GetChildren()) do
+            if c:GetAttribute("AHV4") then c:Destroy() end
+        end
+    end)
+end
+deepClean()
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [8] GLOW BORDER â€” animated rotating gradient stroke
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local function glowBorder(parent, speed, thick, colA, colB)
+    speed = speed or SS.RowBorder
+    thick = thick or 1.4
+    colA  = colA  or Color3.fromRGB(40, 80, 160)
+    colB  = colB  or Color3.fromRGB(100, 180, 255)
+
+    local stroke = Instance.new("UIStroke")
+    stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    stroke.Thickness        = thick
+    stroke.Parent           = parent
+
+    local grad = Instance.new("UIGradient")
+    grad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0,    Color3.fromRGB(8,  10, 28)),
+        ColorSequenceKeypoint.new(0.3,  colA),
+        ColorSequenceKeypoint.new(0.65, colB),
+        ColorSequenceKeypoint.new(1,    Color3.fromRGB(215, 238, 255)),
+    })
+    grad.Rotation = 0
+    grad.Parent   = stroke
+
+    task.spawn(function()
+        local t0 = tick()
+        while parent and parent.Parent do
+            local t = tick() - t0
+            grad.Rotation       = (grad.Rotation + speed) % 360
+            stroke.Transparency = 0.04 + (math.sin(t * 2.1)   + 1) * 0.5 * 0.16
+            stroke.Thickness    = thick + (math.sin(t * 1.35) + 1) * 0.5 * 0.75
+            task.wait(SS.Pulse)
+        end
+    end)
+    return stroke
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [9] GLOW TEXT â€” animated gradient on TextLabel/Button
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local function glowText(lbl, speed, rA, rB, rC)
+    speed = speed or SS.TextEffect
+    rA = rA or C.gradA; rB = rB or C.gradB; rC = rC or C.gradC
+
+    local g = Instance.new("UIGradient")
+    g.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0,    rA),
+        ColorSequenceKeypoint.new(0.45, rB),
+        ColorSequenceKeypoint.new(1,    rC),
+    })
+    g.Rotation = 0
+    g.Parent   = lbl
+
+    task.spawn(function()
+        while lbl and lbl.Parent do
+            g.Rotation = (g.Rotation + speed) % 360
+            task.wait(0.016)
+        end
+    end)
+    return g
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [10] DRAGGABLE â€” polls InputObject (NO camera bug)
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local function makeDraggable(frame, handle)
+    local activeInput  = nil
+    local startTouchPos = Vector2.zero
+    local startFrmPos   = Vector2.zero
+
+    handle.InputBegan:Connect(function(inp)
+        if inp.UserInputType == Enum.UserInputType.Touch
+        or inp.UserInputType == Enum.UserInputType.MouseButton1 then
+            activeInput   = inp
+            startTouchPos = Vector2.new(inp.Position.X, inp.Position.Y)
+            startFrmPos   = Vector2.new(frame.Position.X.Offset, frame.Position.Y.Offset)
+        end
+    end)
+
+    RunService.RenderStepped:Connect(function()
+        if not activeInput then return end
+        local st = activeInput.UserInputState
+        if st == Enum.UserInputState.End or st == Enum.UserInputState.Cancel then
+            activeInput = nil; return
+        end
+        local vp = Camera.ViewportSize
+        local dx = activeInput.Position.X - startTouchPos.X
+        local dy = activeInput.Position.Y - startTouchPos.Y
+        local nx = math.clamp(startFrmPos.X + dx, 0, vp.X - frame.AbsoluteSize.X)
+        local ny = math.clamp(startFrmPos.Y + dy, 0, vp.Y - frame.AbsoluteSize.Y)
+        frame.Position = UDim2.new(0, nx, 0, ny)
+    end)
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [11] NOTIFICATION SYSTEM
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local notifSG = Instance.new("ScreenGui")
+notifSG.Name         = "AetherV4_Notif"
+notifSG.ResetOnSpawn = false
+notifSG.DisplayOrder = 9999
+notifSG.Parent       = Player.PlayerGui
+tag(notifSG)
+
+local notifCount = 0
+local notifList  = {}   -- {frame=f, id=n}
+
+local NOTIF_W  = IS_MOBILE and 220 or 260
+local NOTIF_H  = 60
+local NOTIF_X  = -8   -- right-edge offset
+
+local notifIcons = {
+    success = "âœ”",
+    error   = "âœ–",
+    info    = "â„¹",
+    owner   = "â˜…",
+    free    = "â—†",
+    warn    = "âš ",
+    system  = "âš™",
+}
+local notifColors = {
+    success = C.success,
+    error   = C.danger,
+    info    = C.accent,
+    owner   = C.gold,
+    free    = C.neon,
+    warn    = C.warn,
+    system  = C.purple,
+}
+
+local function repositionNotifs()
+    for i, entry in ipairs(notifList) do
+        local targetY = 10 + (i - 1) * (NOTIF_H + 6)
+        tween(entry.frame, {Position = UDim2.new(1, NOTIF_X - NOTIF_W, 0, targetY)}, 0.22):Play()
+    end
+end
+
+local function notify(title, msg, ntype, dur)
+    dur   = dur   or 3.5
+    ntype = ntype or "info"
+    notifCount = notifCount + 1
+
+    local col  = notifColors[ntype] or C.accent
+    local icon = notifIcons[ntype]  or "â—"
+
+    local f = Instance.new("Frame", notifSG)
+    f.Size                  = UDim2.new(0, NOTIF_W, 0, NOTIF_H)
+    f.Position              = UDim2.new(1, 14, 0, 10)
+    f.BackgroundColor3      = C.bg
+    f.BackgroundTransparency = 0.08
+    f.BorderSizePixel       = 0
+    f.ZIndex                = 9000
+    f.ClipsDescendants      = true
+    mkCorner(f, 10)
+    glowBorder(f, SS.NotifBorder, 1.5, col, C.neon)
+
+    -- Left color bar
+    local bar = Instance.new("Frame", f)
+    bar.Size             = UDim2.new(0, 4, 1, 0)
+    bar.BackgroundColor3 = col
+    bar.BorderSizePixel  = 0
+    bar.ZIndex           = 9001
+    mkCorner(bar, 3)
+
+    -- Icon circle
+    local iconBg = Instance.new("Frame", f)
+    iconBg.Size              = UDim2.new(0, 28, 0, 28)
+    iconBg.Position          = UDim2.new(0, 10, 0.5, -14)
+    iconBg.BackgroundColor3  = col
+    iconBg.BackgroundTransparency = 0.55
+    iconBg.BorderSizePixel   = 0
+    iconBg.ZIndex            = 9001
+    mkCorner(iconBg, 14)
+
+    local iconLbl = Instance.new("TextLabel", iconBg)
+    iconLbl.Size                = UDim2.new(1, 0, 1, 0)
+    iconLbl.BackgroundTransparency = 1
+    iconLbl.Text                = icon
+    iconLbl.TextColor3          = col
+    iconLbl.Font                = Enum.Font.GothamBlack
+    iconLbl.TextSize            = 13
+    iconLbl.TextXAlignment      = Enum.TextXAlignment.Center
+    iconLbl.ZIndex              = 9002
+
+    -- Title
+    local tLbl = Instance.new("TextLabel", f)
+    tLbl.Size               = UDim2.new(1, -50, 0, 20)
+    tLbl.Position           = UDim2.new(0, 44, 0, 8)
+    tLbl.BackgroundTransparency = 1
+    tLbl.Text               = title
+    tLbl.TextColor3         = col
+    tLbl.Font               = Enum.Font.GothamBlack
+    tLbl.TextSize           = IS_MOBILE and 11 or 12
+    tLbl.TextXAlignment     = Enum.TextXAlignment.Left
+    tLbl.ZIndex             = 9002
+    tLbl.TextTruncate       = Enum.TextTruncate.AtEnd
+
+    -- Message
+    local mLbl = Instance.new("TextLabel", f)
+    mLbl.Size               = UDim2.new(1, -50, 0, 22)
+    mLbl.Position           = UDim2.new(0, 44, 0, 28)
+    mLbl.BackgroundTransparency = 1
+    mLbl.Text               = msg
+    mLbl.TextColor3         = C.textDim
+    mLbl.Font               = Enum.Font.GothamSemibold
+    mLbl.TextSize           = IS_MOBILE and 10 or 11
+    mLbl.TextXAlignment     = Enum.TextXAlignment.Left
+    mLbl.TextWrapped        = true
+    mLbl.ZIndex             = 9002
+
+    -- Progress bar
+    local progBg = Instance.new("Frame", f)
+    progBg.Size             = UDim2.new(1, -8, 0, 2)
+    progBg.Position         = UDim2.new(0, 4, 1, -3)
+    progBg.BackgroundColor3 = Color3.fromRGB(20, 30, 50)
+    progBg.BorderSizePixel  = 0
+    progBg.ZIndex           = 9003
+    mkCorner(progBg, 2)
+
+    local progFill = Instance.new("Frame", progBg)
+    progFill.Size             = UDim2.new(1, 0, 1, 0)
+    progFill.BackgroundColor3 = col
+    progFill.BorderSizePixel  = 0
+    progFill.ZIndex           = 9004
+    mkCorner(progFill, 2)
+
+    local entry = {frame = f, id = notifCount}
+    table.insert(notifList, entry)
+    repositionNotifs()
+
+    -- Slide in
+    tween(f, {Position = UDim2.new(1, NOTIF_X - NOTIF_W, 0, 10)}, 0.32,
+        Enum.EasingStyle.Back, Enum.EasingDirection.Out):Play()
+
+    -- Progress shrink
+    TweenService:Create(progFill, TweenInfo.new(dur, Enum.EasingStyle.Linear), {
+        Size = UDim2.new(0, 0, 1, 0)
+    }):Play()
+
+    task.spawn(function()
+        task.wait(dur)
+        tween(f, {Position = UDim2.new(1, 14, 0, f.Position.Y.Offset),
+                  BackgroundTransparency = 1}, 0.25,
+            Enum.EasingStyle.Quart, Enum.EasingDirection.In):Play()
+        task.wait(0.27)
+        if f and f.Parent then f:Destroy() end
+        for i, e in ipairs(notifList) do
+            if e.id == notifCount then table.remove(notifList, i); break end
+        end
+        repositionNotifs()
+    end)
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [12] KEY SYSTEM
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local KS = {valid = false, owner = false, free = false}
+
+local function fetchKeys()
+    local ok, res = pcall(function() return game:HttpGet(KC.KeysURL) end)
+    if not ok or not res or res == "" then return {} end
+    local t = {}
+    for line in res:gmatch("[^\r\n]+") do
+        local k, u = line:match("{(.-)},{(.-)}")
+        if k and u then
+            t[k:upper():gsub("%s+", "")] = u:gsub("%s+", "")
+        end
+    end
+    return t
+end
+
+local function verifyKey(raw)
+    raw = raw and raw:upper():match("^%s*(.-)%s*$") or ""
+    if #raw == 0 then return false, "Ø§Ù„Ù…ÙØªØ§Ø­ ÙØ§Ø±Øº!", "error" end
+    if #raw > KC.MaxKeyLen then return false, "Ø§Ù„Ù…ÙØªØ§Ø­ Ø·ÙˆÙŠÙ„ Ø¬Ø¯Ø§Ù‹!", "error" end
+
+    -- OWNER KEY: works for any user, no UID check
+    if raw == KC.OwnerKey:upper() then
+        KS.owner = true
+        KS.valid = true
+        return true, "ØªÙ… ØªÙØ¹ÙŠÙ„ ØµÙ„Ø§Ø­ÙŠØ§Øª Ø§Ù„Ù…Ø§Ù„Ùƒ!", "owner"
+    end
+
+    -- FREE KEY: works for everyone
+    if KC.FreeEnabled and raw == KC.FreeKey:upper() then
+        KS.free  = true
+        KS.valid = true
+        return true, "Ø§Ù„Ù…ÙØªØ§Ø­ Ø§Ù„Ù…Ø¬Ø§Ù†ÙŠ Ù…ÙØ¹Ù‘Ù„!", "free"
+    end
+
+    -- NORMAL KEYS from Pastebin
+    local keys = fetchKeys()
+    if not keys[raw] then return false, "Ù…ÙØªØ§Ø­ Ø®Ø§Ø·Ø¦ Ø£Ùˆ ØºÙŠØ± Ù…ÙˆØ¬ÙˆØ¯!", "error" end
+    KS.valid = true
+    return true, "ØªÙ… Ø§Ù„ØªÙØ¹ÙŠÙ„ Ø¨Ù†Ø¬Ø§Ø­!", "success"
+end
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [13] KEY UI
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+local keySG = Instance.new("ScreenGui")
+keySG.Name         = "Aether_KeySystem"
+keySG.ResetOnSpawn = false
+keySG.DisplayOrder = 500
+keySG.Parent       = Player.PlayerGui
+tag(keySG)
+
+local KW = IS_MOBILE and 310 or 360
+local KH = IS_MOBILE and 240 or 270
+
+local kFrame = Instance.new("Frame", keySG)
+kFrame.Name                  = "KeyFrame"
+kFrame.Size                  = UDim2.new(0, KW, 0, KH)
+kFrame.AnchorPoint           = Vector2.new(0.5, 0.5)
+kFrame.Position              = UDim2.new(0.5, 0, 0.5, 0)
+kFrame.BackgroundColor3      = C.bg
+kFrame.BackgroundTransparency = 0.1
+kFrame.BorderSizePixel       = 0
+kFrame.Active                = true
+kFrame.ClipsDescendants      = true
+mkCorner(kFrame, 16)
+glowBorder(kFrame, SS.MainBorder, 2.4, C.accent, C.neon)
+
+-- Header gradient strip
+local kHdr = Instance.new("Frame", kFrame)
+kHdr.Size             = UDim2.new(1, 0, 0, 48)
+kHdr.BackgroundColor3 = Color3.fromRGB(10, 18, 32)
+kHdr.BackgroundTransparency = 0.3
+kHdr.BorderSizePixel  = 0
+kHdr.ZIndex           = 3
+mkCorner(kHdr, 16)
+local kHdrGrad = Instance.new("UIGradient", kHdr)
+kHdrGrad.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0,   Color3.fromRGB(20, 50, 110)),
+    ColorSequenceKeypoint.new(0.5, Color3.fromRGB(40, 90, 180)),
+    ColorSequenceKeypoint.new(1,   Color3.fromRGB(20, 50, 110)),
+})
+task.spawn(function()
+    while kHdr and kHdr.Parent do
+        kHdrGrad.Rotation = (kHdrGrad.Rotation + 0.5) % 360
+        task.wait(0.033)
+    end
+end)
+
+local kTitle = Instance.new("TextLabel", kFrame)
+kTitle.Size               = UDim2.new(1, 0, 0, 32)
+kTitle.Position           = UDim2.new(0, 0, 0, 6)
+kTitle.BackgroundTransparency = 1
+kTitle.Text               = "âœ¦  AETHER HUB V4"
+kTitle.TextColor3         = C.text
+kTitle.Font               = Enum.Font.GothamBlack
+kTitle.TextSize           = IS_MOBILE and 15 or 18
+kTitle.ZIndex             = 4
+glowText(kTitle, SS.TextEffect)
+
+local kDisc = Instance.new("TextLabel", kFrame)
+kDisc.Size               = UDim2.new(1, 0, 0, 14)
+kDisc.Position           = UDim2.new(0, 0, 0, 35)
+kDisc.BackgroundTransparency = 1
+kDisc.Text               = "discord.gg/7BbXjqWFmA"
+kDisc.TextColor3         = C.textDim
+kDisc.Font               = Enum.Font.GothamBold
+kDisc.TextSize           = 10
+kDisc.ZIndex             = 4
+glowText(kDisc, SS.TextEffect * 0.6)
+
+-- Input container
+local kBoxBg = Instance.new("Frame", kFrame)
+kBoxBg.Size               = UDim2.new(0.88, 0, 0, 40)
+kBoxBg.Position           = UDim2.new(0.06, 0, 0, 60)
+kBoxBg.BackgroundColor3   = C.card
+kBoxBg.BorderSizePixel    = 0
+mkCorner(kBoxBg, 10)
+glowBorder(kBoxBg, SS.KeybindBox, 1.2)
+
+local kBox = Instance.new("TextBox", kBoxBg)
+kBox.Size                 = UDim2.new(1, -14, 1, -8)
+kBox.Position             = UDim2.new(0, 7, 0, 4)
+kBox.BackgroundColor3     = Color3.fromRGB(7, 11, 20)
+kBox.BorderSizePixel      = 0
+kBox.PlaceholderText      = "Ø£Ø¯Ø®Ù„ Ø§Ù„Ù…ÙØªØ§Ø­ Ù‡Ù†Ø§..."
+kBox.PlaceholderColor3    = C.textDim
+kBox.Text                 = ""
+kBox.TextColor3           = C.text
+kBox.Font                 = Enum.Font.GothamSemibold
+kBox.TextSize             = IS_MOBILE and 12 or 14
+kBox.ClearTextOnFocus     = false
+mkCorner(kBox, 8)
+kBox:GetPropertyChangedSignal("Text"):Connect(function()
+    if #kBox.Text > KC.MaxKeyLen then
+        kBox.Text = kBox.Text:sub(1, KC.MaxKeyLen)
+    end
+end)
+
+-- Status
+local kStatus = Instance.new("TextLabel", kFrame)
+kStatus.Size               = UDim2.new(0.9, 0, 0, 18)
+kStatus.Position           = UDim2.new(0.05, 0, 0, 108)
+kStatus.BackgroundTransparency = 1
+kStatus.Text               = "Ø£Ø¯Ø®Ù„ Ù…ÙØªØ§Ø­Ùƒ Ù„Ù„Ù…ØªØ§Ø¨Ø¹Ø©"
+kStatus.TextColor3         = C.textDim
+kStatus.Font               = Enum.Font.GothamBold
+kStatus.TextSize           = IS_MOBILE and 11 or 12
+kStatus.ZIndex             = 4
+
+-- Activate button
+local kBtn = Instance.new("TextButton", kFrame)
+kBtn.Size                  = UDim2.new(0.72, 0, 0, 40)
+kBtn.Position              = UDim2.new(0.14, 0, 0, 134)
+kBtn.BackgroundColor3      = Color3.fromRGB(15, 40, 90)
+kBtn.BackgroundTransparency = 0.15
+kBtn.BorderSizePixel       = 0
+kBtn.Text                  = "ØªÙØ¹ÙŠÙ„ Ø§Ù„Ù…ÙØªØ§Ø­"
+kBtn.TextColor3            = C.text
+kBtn.Font                  = Enum.Font.GothamBlack
+kBtn.TextSize              = IS_MOBILE and 14 or 16
+kBtn.AutoButtonColor       = false
+kBtn.ZIndex                = 4
+mkCorner(kBtn, 10)
+glowBorder(kBtn, SS.ButtonBorder, 1.8, C.accent, C.neon)
+glowText(kBtn, SS.TextEffect)
+
+-- Key hints
+local kFreeHint = Instance.new("TextLabel", kFrame)
+kFreeHint.Size               = UDim2.new(0.9, 0, 0, 14)
+kFreeHint.Position           = UDim2.new(0.05, 0, 0, 184)
+kFreeHint.BackgroundTransparency = 1
+kFreeHint.Text               = "Ø§Ù„Ù…ÙØªØ§Ø­ Ø§Ù„Ù…Ø¬Ø§Ù†ÙŠ:  " .. KC.FreeKey
+kFreeHint.TextColor3         = C.textDim
+kFreeHint.Font               = Enum.Font.GothamBold
+kFreeHint.TextSize           = 9
+kFreeHint.ZIndex             = 4
+
+local kOwnerHint = Instance.new("TextLabel", kFrame)
+kOwnerHint.Size               = UDim2.new(0.9, 0, 0, 14)
+kOwnerHint.Position           = UDim2.new(0.05, 0, 0, 200)
+kOwnerHint.BackgroundTransparency = 1
+kOwnerHint.Text               = "Ù„Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù…ÙØªØ§Ø­: discord.gg/7BbXjqWFmA"
+kOwnerHint.TextColor3         = C.textDim
+kOwnerHint.Font               = Enum.Font.Gotham
+kOwnerHint.TextSize           = 9
+kOwnerHint.ZIndex             = 4
+
+local kCopyBtn = Instance.new("TextButton", kFrame)
+kCopyBtn.Size                = UDim2.new(0.55, 0, 0, 22)
+kCopyBtn.Position            = UDim2.new(0.225, 0, 0, 218)
+kCopyBtn.BackgroundColor3    = C.card
+kCopyBtn.BackgroundTransparency = 0.2
+kCopyBtn.BorderSizePixel     = 0
+kCopyBtn.Text                = "Ù†Ø³Ø® Ø§Ù„Ù…ÙØªØ§Ø­ Ø§Ù„Ù…Ø¬Ø§Ù†ÙŠ"
+kCopyBtn.TextColor3          = C.neon
+kCopyBtn.Font                = Enum.Font.GothamBold
+kCopyBtn.TextSize            = 9
+kCopyBtn.AutoButtonColor     = false
+kCopyBtn.ZIndex              = 4
+mkCorner(kCopyBtn, 6)
+kCopyBtn.Activated:Connect(function()
+    kBox.Text      = KC.FreeKey
+    kCopyBtn.Text  = "âœ” ØªÙ… Ù†Ø³Ø®Ù‡ Ù„Ù„Ù…Ø±Ø¨Ø¹!"
+    task.delay(2, function() if kCopyBtn and kCopyBtn.Parent then kCopyBtn.Text = "Ù†Ø³Ø® Ø§Ù„Ù…ÙØªØ§Ø­ Ø§Ù„Ù…Ø¬Ø§Ù†ÙŠ" end end)
+end)
+
+if IS_PC then makeDraggable(kFrame, kHdr) end
+
+-- Shake animation (fixed - stores center, tweens offsets)
+local function shakeKey()
+    local orig = kFrame.Position
+    task.spawn(function()
+        for _, dx in ipairs({12, -12, 9, -9, 6, -6, 3, -3, 0}) do
+            tween(kFrame, {Position = orig + UDim2.new(0, dx, 0, 0)}, 0.045, Enum.EasingStyle.Linear):Play()
+            task.wait(0.045)
+        end
+        kFrame.Position = orig
+    end)
+end
+
+local showOwnerChoice  -- forward declare
+local kBusy = false
+
+kBtn.Activated:Connect(function()
+    if kBusy then return end
+    if kBox.Text == "" then
+        kStatus.Text       = "âš   Ø£Ø¯Ø®Ù„ Ø§Ù„Ù…ÙØªØ§Ø­ Ø£ÙˆÙ„Ø§Ù‹!"
+        kStatus.TextColor3 = C.danger
+        shakeKey(); return
+    end
+    kBusy = true
+    kBtn.Text            = "â³  Ø¬Ø§Ø±ÙŠ Ø§Ù„ØªØ­Ù‚Ù‚..."
+    kStatus.Text         = "ÙŠØªÙ… Ø§Ù„ØªØ­Ù‚Ù‚ Ù…Ù† Ø§Ù„Ù…ÙØªØ§Ø­..."
+    kStatus.TextColor3   = C.accent
+
+    -- simulate loading (makes it feel premium)
+    task.wait(0.8)
+
+    local ok, msg, ntype = verifyKey(kBox.Text)
+    if ok then
+        local col = notifColors[ntype] or C.success
+        kStatus.Text       = "âœ”  " .. msg
+        kStatus.TextColor3 = col
+        kBtn.Text          = "âœ”  ØªÙ… Ø¨Ù†Ø¬Ø§Ø­!"
+        kBtn.TextColor3    = col
+        notify("AETHER V4", msg, ntype, 4)
+
+        tween(kFrame, {BackgroundTransparency = 0.7}, 0.5):Play()
+        task.wait(0.6)
+
+        if KS.owner then
+            showOwnerChoice()
+        else
+            tween(kFrame, {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(0, KW * 0.3, 0, KH * 0.3)
+            }, 0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.In):Play()
+            task.wait(0.35)
+            keySG:Destroy()
+            startMainScript(IS_MOBILE and "mobile" or "pc")
+        end
+    else
+        local col = C.danger
+        kStatus.Text       = "âœ–  " .. msg
+        kStatus.TextColor3 = col
+        kBtn.Text          = "âœ–  ÙØ´Ù„ â€” Ø£Ø¹Ø¯ Ø§Ù„Ù…Ø­Ø§ÙˆÙ„Ø©"
+        kBtn.TextColor3    = col
+        notify("Ø®Ø·Ø£ ÙÙŠ Ø§Ù„Ù…ÙØªØ§Ø­", msg, "error", 3)
+        shakeKey()
+        task.wait(1.5)
+        kBtn.Text      = "ØªÙØ¹ÙŠÙ„ Ø§Ù„Ù…ÙØªØ§Ø­"
+        kBtn.TextColor3 = C.text
+        kBusy = false
+    end
+end)
+
+-- Owner choice screen
+showOwnerChoice = function()
+    -- hide normal UI
+    for _, child in ipairs(kFrame:GetChildren()) do
+        if child ~= kHdr then child.Visible = false end
+    end
+
+    local omsg = Instance.new("TextLabel", kFrame)
+    omsg.Size               = UDim2.new(0.9, 0, 0, 36)
+    omsg.Position           = UDim2.new(0.05, 0, 0, 50)
+    omsg.BackgroundTransparency = 1
+    omsg.Text               = "Ù…Ø±Ø­Ø¨Ø§Ù‹ ÙŠØ§ Ù…Ø§Ù„Ùƒ!\nØ§Ø®ØªØ± Ù†Ø³Ø®Ø© Ø§Ù„Ø³ÙƒØ±Ø¨Øª:"
+    omsg.TextColor3         = C.gold
+    omsg.Font               = Enum.Font.GothamBold
+    omsg.TextSize           = IS_MOBILE and 13 or 15
+    omsg.TextXAlignment     = Enum.TextXAlignment.Center
+    omsg.ZIndex             = 5
+    omsg.TextWrapped        = true
+    glowText(omsg, SS.TextEffect, C.gold, C.warn, C.gold)
+
+    local function choiceBtn(icon, label, yPos, col1, col2)
+        local f = Instance.new("Frame", kFrame)
+        f.Size               = UDim2.new(0.82, 0, 0, 46)
+        f.Position           = UDim2.new(0.09, 0, 0, yPos)
+        f.BackgroundColor3   = C.card
+        f.BackgroundTransparency = 0.15
+        f.BorderSizePixel    = 0
+        f.ZIndex             = 5
+        mkCorner(f, 10)
+        glowBorder(f, SS.RowBorder, 1.4, col1 or C.accent, col2 or C.neon)
+
+        local b = Instance.new("TextButton", f)
+        b.Size               = UDim2.new(1, 0, 1, 0)
+        b.BackgroundTransparency = 1
+        b.Text               = icon .. "  " .. label
+        b.TextColor3         = C.text
+        b.Font               = Enum.Font.GothamBlack
+        b.TextSize           = IS_MOBILE and 14 or 16
+        b.AutoButtonColor    = false
+        b.ZIndex             = 6
+        glowText(b, SS.TextEffect, col1, col2, C.text)
+        return b
+    end
+
+    local pcB  = choiceBtn("ðŸ–¥", "Ù†Ø³Ø®Ø© PC",     100, C.accent, C.neon)
+    local mbB  = choiceBtn("ðŸ“±", "Ù†Ø³Ø®Ø© Mobile", 152, C.success, C.neon)
+
+    local function pick(v)
+        tween(kFrame, {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(0, KW * 0.3, 0, KH * 0.3)
+        }, 0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.In):Play()
+        task.wait(0.35)
+        keySG:Destroy()
+        startMainScript(v)
+    end
+    pcB.Activated:Connect(function() pick("pc")     end)
+    mbB.Activated:Connect(function() pick("mobile") end)
+end
+
+print("[AetherV4] Key UI ready â€” Platform:", IS_MOBILE and "Mobile" or "PC")
+
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-- [14] MAIN SCRIPT
+-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+function startMainScript(scriptVersion)
+
+    -- full cleanup on start
+    deepClean()
+    pcall(function()
+        Lighting.Ambient    = Color3.fromRGB(127, 127, 127)
+        Lighting.Brightness = 2
+        Lighting.ClockTime  = 14
+        Lighting.FogEnd     = 100000
+    end)
+
+    -- remove sounds on spawn
+    local function rmSounds(char)
+        if not char then return end
+        pcall(function()
+            for _, o in char:GetDescendants() do
+                if o:IsA("Sound") or o:IsA("SoundEffect") then
+                    pcall(function() o:Destroy() end)
+                end
+            end
+        end)
+    end
+    if Player.Character then rmSounds(Player.Character) end
+    Player.CharacterAdded:Connect(function(c)
+        task.wait(0.5); rmSounds(c)
+    end)
+
+    -- â”€â”€ VALUES â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local V = {
+        BoostSpeed   = 58,
+        StealSpeed   = 29,
+        HopPower     = 26,
+        StealRadius  = 9,
+        FlySpeed     = 50,
+        LockSpeed    = 20,
+    }
+
+    -- â”€â”€ KEYBINDS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local KB = {
+        AutoLeft  = "Q",
+        AutoRight = "R",
+        Lock      = "V",
+        TPDown    = "T",
+        Drop      = "G",
+        Fly       = "F",
+        ToggleGUI = "RightShift",
+    }
+
+    -- â”€â”€ ENABLED STATE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local En = {
+        SpeedBoost  = false, AntiRagdoll = false,
+        InstaSteal  = false, FastSteal   = false,
+        Lock        = false, AutoLeft    = false,
+        AutoRight   = false, Drop        = false,
+        TPDown      = false, Galaxy      = false,
+        GalaxySky   = false, PlayerESP   = false,
+        Fly         = false, NoClip      = false,
+        AntiAFK     = false, AutoSteal   = false,
+        ChatSpy     = false, HighlightESP= false,
+    }
+
+    -- â”€â”€ CONNECTIONS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local Conn   = {}
+    local VSets  = {}   -- visual setters  [eKey] = fn(bool, skipCb)
+    local SSets  = {}   -- slider setters  [valKey] = fn(val)
+    local KBL    = {}   -- keybind labels  [eKey] = TextLabel
+    local KBA    = {}   -- keybind actions [eKey] = fn()
+    local listeningKB = nil
+
+    -- â”€â”€ INTERNAL STATE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local CMode       = "None"
+    local lockBAV     = nil
+    local alId, arId  = 0, 0
+    local alThread, arThread = nil, nil
+    local dropFiring  = false
+    local dropConns   = {}
+    local tpdFiring   = false
+    local fastActive  = false
+    local galaxyOn    = false
+    local lastHop     = 0
+    local flyActive   = false
+    local flyBodyPos  = nil
+    local flyBodyGyro = nil
+    local noClipConn  = nil
+    local afkConn     = nil
+    local arConns     = {}   -- anti-ragdoll
+    local autoStealConn = nil
+    local chatSpyConns  = {}
+    local highlightObjs = {}
+    local inputConn   = nil
+
+    -- â”€â”€ HELPERS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function getHRP()
+        local c = Player.Character
+        return c and c:FindFirstChild("HumanoidRootPart")
+    end
+    local function getHum()
+        local c = Player.Character
+        return c and c:FindFirstChildOfClass("Humanoid")
+    end
+    local function getMoveDir()
+        local h = getHum()
+        return h and h.MoveDirection or Vector3.zero
+    end
+    local function resetVel()
+        pcall(function()
+            local h  = getHRP()
+            local hm = getHum()
+            if h  then h.AssemblyLinearVelocity = Vector3.new(0, h.AssemblyLinearVelocity.Y, 0) end
+            if hm then hm:Move(Vector3.zero, false) end
+        end)
+    end
+
+    -- mode manager
+    local function stopMode(mode)
+        if mode == "Lock" then
+            if Conn.lock  then Conn.lock:Disconnect(); Conn.lock = nil end
+            if lockBAV    then lockBAV:Destroy(); lockBAV = nil end
+            En.Lock = false
+            if VSets.Lock then VSets.Lock(false, true) end
+        elseif mode == "AutoLeft" then
+            alId = alId + 1
+            if alThread then pcall(function() task.cancel(alThread) end); alThread = nil end
+            En.AutoLeft = false
+            if VSets.AutoLeft then VSets.AutoLeft(false, true) end
+        elseif mode == "AutoRight" then
+            arId = arId + 1
+            if arThread then pcall(function() task.cancel(arThread) end); arThread = nil end
+            En.AutoRight = false
+            if VSets.AutoRight then VSets.AutoRight(false, true) end
+        end
+    end
+    local function forceStopAll()
+        stopMode(CMode); CMode = "None"; resetVel()
+    end
+    local function setMoveMode(ns, sf)
+        if CMode == ns then return end
+        if CMode ~= "None" then stopMode(CMode) end
+        CMode = "None"; resetVel()
+        if ns == "None" then return end
+        CMode = ns; sf()
+    end
+
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    -- FEATURES
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+    -- â”€â”€ ANTI RAGDOLL â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startAntiRag()
+        if #arConns > 0 then return end
+        pcall(function()
+            local ch  = Player.Character or Player.CharacterAdded:Wait()
+            local hm  = ch:WaitForChild("Humanoid")
+            local hrp = ch:WaitForChild("HumanoidRootPart")
+            local cam = workspace.CurrentCamera
+            local ani = hm:WaitForChild("Animator")
+            local lv  = Vector3.zero
+
+            local function isRag()
+                local s = hm:GetState()
+                return s == Enum.HumanoidStateType.Physics
+                    or s == Enum.HumanoidStateType.Ragdoll
+                    or s == Enum.HumanoidStateType.FallingDown
+                    or s == Enum.HumanoidStateType.GettingUp
+            end
+            local function clean()
+                for _, o in pairs(ch:GetDescendants()) do
+                    if o:IsA("BallSocketConstraint") or o:IsA("NoCollisionConstraint")
+                    or o:IsA("HingeConstraint") or o:IsA("BodyVelocity")
+                    or o:IsA("BodyPosition")    or o:IsA("BodyGyro") then
+                        pcall(function() o:Destroy() end)
+                    elseif o:IsA("Motor6D") then
+                        o.Enabled = true
+                    end
+                end
+                for _, t in pairs(ani:GetPlayingAnimationTracks()) do
+                    local n = t.Animation and t.Animation.Name:lower() or ""
+                    if n:find("rag") or n:find("fall") or n:find("hurt") then t:Stop(0) end
+                end
+            end
+            local function reEnable()
+                pcall(function()
+                    require(Player:WaitForChild("PlayerScripts")
+                        :WaitForChild("PlayerModule")):GetControls():Enable()
+                end)
+            end
+
+            table.insert(arConns, hm.StateChanged:Connect(function()
+                if isRag() then
+                    hm:ChangeState(Enum.HumanoidStateType.Running)
+                    clean(); cam.CameraSubject = hm; reEnable()
+                end
+            end))
+            table.insert(arConns, RunService.Heartbeat:Connect(function()
+                if isRag() then
+                    clean()
+                    local vel = hrp.AssemblyLinearVelocity
+                    if (vel - lv).Magnitude > 40 and vel.Magnitude > 25 then
+                        hrp.AssemblyLinearVelocity = vel.Unit * math.min(vel.Magnitude, 15)
+                    end
+                    lv = vel
+                end
+            end))
+            table.insert(arConns, ch.DescendantAdded:Connect(function()
+                if isRag() then clean() end
+            end))
+            table.insert(arConns, Player.CharacterAdded:Connect(function(nc)
+                ch = nc; hm = nc:WaitForChild("Humanoid")
+                hrp = nc:WaitForChild("HumanoidRootPart")
+                ani = hm:WaitForChild("Animator")
+                lv = Vector3.zero; reEnable(); clean()
+            end))
+            reEnable(); clean()
+        end)
+    end
+    local function stopAntiRag()
+        for _, c in pairs(arConns) do pcall(function() c:Disconnect() end) end
+        arConns = {}
+    end
+
+    -- â”€â”€ SPEED BOOST â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startSpeed()
+        if Conn.speed then return end
+        Conn.speed = RunService.Heartbeat:Connect(function()
+            if not En.SpeedBoost or CMode ~= "None" then return end
+            pcall(function()
+                local hrp = getHRP(); if not hrp then return end
+                local md  = getMoveDir()
+                if md.Magnitude > 0.1 then
+                    local sp = Player:GetAttribute("Stealing") and V.StealSpeed or V.BoostSpeed
+                    hrp.AssemblyLinearVelocity =
+                        Vector3.new(md.X * sp, hrp.AssemblyLinearVelocity.Y, md.Z * sp)
+                end
+            end)
+        end)
+    end
+    local function stopSpeed()
+        if Conn.speed then Conn.speed:Disconnect(); Conn.speed = nil end
+        resetVel()
+    end
+
+    -- â”€â”€ FAST STEAL â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startFastSteal()
+        if fastActive then return end; fastActive = true
+        task.spawn(function()
+            while fastActive do
+                task.wait(0.03)
+                pcall(function()
+                    local hrp = getHRP(); if not hrp then return end
+                    for _, o in pairs(workspace:GetDescendants()) do
+                        if o:IsA("ProximityPrompt") then
+                            local pos = o.Parent and o.Parent:IsA("BasePart") and o.Parent.Position
+                            if pos and (pos - hrp.Position).Magnitude < 22 then
+                                pcall(function()
+                                    o.HoldDuration          = 0.06
+                                    o.RequiresLineOfSight   = false
+                                    o.Exclusivity           = Enum.Exclusivity.None
+                                end)
+                            end
+                        end
+                    end
+                end)
+            end
+        end)
+    end
+    local function stopFastSteal() fastActive = false end
+
+    -- â”€â”€ INSTA STEAL â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local ISD   = {Radius = V.StealRadius, Conn = nil, Scanning = false}
+    local aAC   = {}
+    local PMC   = {}
+    local ISC   = {}
+    local ISf   = false
+    local lST   = 0
+
+    local function isMB(pn)
+        local pf = workspace:FindFirstChild("Plots"); if not pf then return false end
+        local p  = pf:FindFirstChild(pn);            if not p  then return false end
+        local s  = p:FindFirstChild("PlotSign");      if not s  then return false end
+        local y  = s:FindFirstChild("YourBase")
+        return y and y:IsA("BillboardGui") and y.Enabled
+    end
+    local function scanPlot(pl)
+        if not pl or not pl:IsA("Model") or isMB(pl.Name) then return end
+        local pd = pl:FindFirstChild("AnimalPodiums"); if not pd then return end
+        for _, po in ipairs(pd:GetChildren()) do
+            if po:IsA("Model") and po:FindFirstChild("Base") then
+                local pv; pcall(function() pv = po:GetPivot().Position end)
+                if pv then
+                    table.insert(aAC, {plot=pl.Name, slot=po.Name, wp=pv, uid=pl.Name.."_"..po.Name})
+                end
+            end
+        end
+    end
+    local function initScan()
+        if ISD.Scanning then return end; ISD.Scanning = true
+        task.spawn(function()
+            task.wait(2)
+            local pf = workspace:FindFirstChild("Plots")
+            if not pf then pcall(function() pf = workspace:WaitForChild("Plots", 10) end) end
+            if not pf then ISD.Scanning = false; return end
+            for _, pl in ipairs(pf:GetChildren()) do if pl:IsA("Model") then scanPlot(pl) end end
+            task.spawn(function()
+                while ISD.Scanning do
+                    task.wait(5); aAC = {}
+                    if pf and pf.Parent then
+                        for _, pl in ipairs(pf:GetChildren()) do if pl:IsA("Model") then scanPlot(pl) end end
+                    end
+                end
+            end)
+        end)
+    end
+    local function findPrompt(ad)
+        if not ad then return nil end
+        local cp = PMC[ad.uid]; if cp and cp.Parent then return cp end
+        local pf = workspace:FindFirstChild("Plots"); if not pf then return nil end
+        local pl = pf:FindFirstChild(ad.plot);        if not pl then return nil end
+        local pd = pl:FindFirstChild("AnimalPodiums"); if not pd then return nil end
+        local po = pd:FindFirstChild(ad.slot);         if not po then return nil end
+        local b  = po:FindFirstChild("Base");           if not b  then return nil end
+        local sp = b:FindFirstChild("Spawn");           if not sp then return nil end
+        local at = sp:FindFirstChild("PromptAttachment"); if not at then return nil end
+        for _, p in ipairs(at:GetChildren()) do
+            if p:IsA("ProximityPrompt") then PMC[ad.uid] = p; return p end
+        end
+    end
+    local function findNearest(tp)
+        local n, md = nil, math.huge
+        for _, ad in ipairs(aAC) do
+            if not ad.wp then continue end
+            local pm = PMC[ad.uid]; if not pm or not pm.Parent then pm = findPrompt(ad) end
+            if not pm or not pm.Enabled then continue end
+            local mx = (pm.MaxActivationDistance or 0) + 2
+            if mx < 2 then mx = ISD.Radius + 2 end
+            local d = (tp - ad.wp).Magnitude
+            if d < md and d <= mx then md = d; n = ad end
+        end
+        return n
+    end
+    local function cacheCallbacks(pm)
+        if ISC[pm] then return end
+        local d = {hold = {}, trig = {}, ready = true}
+        local o1, c1 = pcall(function() return getconnections(pm.PromptButtonHoldBegan) end)
+        if o1 and type(c1) == "table" then
+            for _, cn in ipairs(c1) do if type(cn.Function) == "function" then table.insert(d.hold, cn.Function) end end
+        end
+        local o2, c2 = pcall(function() return getconnections(pm.Triggered) end)
+        if o2 and type(c2) == "table" then
+            for _, cn in ipairs(c2) do if type(cn.Function) == "function" then table.insert(d.trig, cn.Function) end end
+        end
+        if #d.hold > 0 or #d.trig > 0 then ISC[pm] = d end
+    end
+    local function firePrompt(pm)
+        local d = ISC[pm]; if not d or not d.ready then return false end
+        if tick() - lST < 0.05 then return false end
+        d.ready = false; ISf = true; lST = tick()
+        task.spawn(function()
+            for _, fn in ipairs(d.hold) do pcall(fn) end
+            for _, fn in ipairs(d.trig) do pcall(fn) end
+            task.wait(0.04); d.ready = true; ISf = false
+        end)
+        return true
+    end
+    local function doSteal(pm)
+        if not pm or not pm.Parent then return false end
+        cacheCallbacks(pm)
+        if not ISC[pm] then return false end
+        return firePrompt(pm)
+    end
+    local function startIS()
+        if ISD.Conn then return end; initScan()
+        ISD.Conn = RunService.Heartbeat:Connect(function()
+            if not En.InstaSteal or ISf then return end
+            local hrp = getHRP(); if not hrp then return end
+            local ta  = findNearest(hrp.Position); if not ta then return end
+            local pm  = PMC[ta.uid]
+            if not pm or not pm.Parent then pm = findPrompt(ta) end
+            if pm and pm.Enabled then doSteal(pm) end
+        end)
+    end
+    local function stopIS()
+        if ISD.Conn then ISD.Conn:Disconnect(); ISD.Conn = nil end
+        ISD.Scanning = false; aAC = {}; PMC = {}; ISC = {}; ISf = false
+    end
+
+    -- â”€â”€ LOCK TARGET (rotation only, no movement) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function findNearestPlayer(hrp)
+        local best, bd = nil, math.huge
+        for _, p in Players:GetPlayers() do
+            if p ~= Player and p.Character then
+                local eh = p.Character:FindFirstChild("HumanoidRootPart")
+                local hm = p.Character:FindFirstChildOfClass("Humanoid")
+                if eh and hm and hm.Health > 0 then
+                    local d = (eh.Position - hrp.Position).Magnitude
+                    if d < bd then bd = d; best = eh end
+                end
+            end
+        end
+        return best
+    end
+    local function startLock()
+        local c = Player.Character; if not c then return end
+        local hrp = c:FindFirstChild("HumanoidRootPart"); if not hrp then return end
+        if lockBAV then lockBAV:Destroy() end
+        lockBAV = Instance.new("BodyAngularVelocity")
+        lockBAV.Name            = "AetherLockBAV"
+        lockBAV.MaxTorque       = Vector3.new(0, math.huge, 0)
+        lockBAV.AngularVelocity = Vector3.zero
+        lockBAV.Parent          = hrp
+        tag(lockBAV)
+        if Conn.lock then return end
+        Conn.lock = RunService.Heartbeat:Connect(function()
+            if not En.Lock or CMode ~= "Lock" then return end
+            pcall(function()
+                local ch = Player.Character; if not ch then return end
+                local h  = ch:FindFirstChild("HumanoidRootPart")
+                if not h or not lockBAV or not lockBAV.Parent then return end
+                local tg = findNearestPlayer(h)
+                if not tg then lockBAV.AngularVelocity = Vector3.zero; return end
+
+                -- Y-axis rotation ONLY â€” no movement
+                local flat = Vector3.new(tg.Position.X - h.Position.X, 0, tg.Position.Z - h.Position.Z)
+                local look = h.CFrame.LookVector
+                if flat.Magnitude > 0.12 then
+                    local td  = flat.Unit
+                    local dot = math.clamp(look:Dot(td), -1, 1)
+                    if dot < 0.998 then
+                        local cr = look:Cross(td)
+                        if cr.Magnitude > 0.001 then
+                            local spd = math.clamp((1 - dot) * 16, 3, 24)
+                            lockBAV.AngularVelocity = Vector3.new(0, (cr / cr.Magnitude).Y * spd, 0)
+                        end
+                    else
+                        lockBAV.AngularVelocity = Vector3.zero
+                    end
+                else
+                    lockBAV.AngularVelocity = Vector3.zero
+                end
+            end)
+        end)
+    end
+    local function stopLock()
+        if Conn.lock then Conn.lock:Disconnect(); Conn.lock = nil end
+        if lockBAV   then lockBAV:Destroy(); lockBAV = nil end
+        pcall(function()
+            local h = getHRP(); if not h then return end
+            for _, v in h:GetChildren() do
+                if v.Name == "AetherLockBAV" then v:Destroy() end
+            end
+        end)
+        if CMode == "Lock" then CMode = "None" end
+    end
+
+    -- â”€â”€ AUTO LEFT / RIGHT â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local LWP = {
+        {Vector3.new(-474.78, -7.06,  91.00), 1},
+        {Vector3.new(-487.94, -5.09,  99.13), 1},
+        {Vector3.new(-475.72, -7.05,  97.02), 2},
+        {Vector3.new(-474.42, -7.06,  24.68), 2},
+        {Vector3.new(-486.29, -4.99,  22.06), 2},
+    }
+    local RWP = {
+        {Vector3.new(-474.03, -7.06,  26.82), 1},
+        {Vector3.new(-487.79, -5.04,  20.63), 1},
+        {Vector3.new(-475.02, -7.07,  23.55), 2},
+        {Vector3.new(-473.90, -7.07, 100.04), 2},
+        {Vector3.new(-485.13, -5.09, 104.42), 2},
+    }
+    local function runWP(wps, getID, setID, setThread, enKey)
+        setID(getID() + 1)
+        local myId = getID()
+        local t = task.spawn(function()
+            for _, wpd in ipairs(wps) do
+                if myId ~= getID() then break end
+                local wp, mode = wpd[1], wpd[2]
+                while myId == getID() do
+                    local ch  = Player.Character; if not ch then break end
+                    local h   = ch:FindFirstChild("HumanoidRootPart"); if not h then break end
+                    local dXZ = Vector3.new(wp.X - h.Position.X, 0, wp.Z - h.Position.Z)
+                    if dXZ.Magnitude < 0.5 then
+                        h.CFrame = CFrame.new(wp.X, h.Position.Y, wp.Z); break
+                    end
+                    local md = dXZ.Unit
+                    local hm = ch:FindFirstChildOfClass("Humanoid")
+                    if hm then hm:Move(md, false) end
+                    local sp = mode == 1 and V.BoostSpeed or V.StealSpeed
+                    h.AssemblyLinearVelocity =
+                        Vector3.new(md.X * sp, h.AssemblyLinearVelocity.Y, md.Z * sp)
+                    task.wait()
+                end
+                if myId ~= getID() then break end
+            end
+            if myId == getID() then
+                resetVel(); CMode = "None"; En[enKey] = false
+                if VSets[enKey] then VSets[enKey](false, true) end
+            end
+        end)
+        setThread(t)
+    end
+    local function startAL()
+        runWP(LWP, function() return alId end, function(v) alId = v end,
+              function(t) alThread = t end, "AutoLeft")
+    end
+    local function stopAL()
+        alId = alId + 1
+        if alThread then pcall(function() task.cancel(alThread) end); alThread = nil end
+        if CMode == "AutoLeft" then CMode = "None" end; resetVel()
+    end
+    local function startAR()
+        runWP(RWP, function() return arId end, function(v) arId = v end,
+              function(t) arThread = t end, "AutoRight")
+    end
+    local function stopAR()
+        arId = arId + 1
+        if arThread then pcall(function() task.cancel(arThread) end); arThread = nil end
+        if CMode == "AutoRight" then CMode = "None" end; resetVel()
+    end
+
+    -- â”€â”€ DROP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function execDrop()
+        if dropFiring then return end; dropFiring = true
+        local cc = RunService.Stepped:Connect(function()
+            for _, p in Players:GetPlayers() do
+                if p ~= Player and p.Character then
+                    for _, a in p.Character:GetChildren() do
+                        if a:IsA("BasePart") then a.CanCollide = false end
+                    end
+                end
+            end
+        end)
+        table.insert(dropConns, cc)
+        task.spawn(function()
+            for _ = 1, 3 do
+                if not dropFiring then break end
+                for _ = 1, 8 do
+                    if not dropFiring then break end
+                    pcall(function()
+                        local hrp = getHRP(); if not hrp then return end
+                        local vel = hrp.AssemblyLinearVelocity
+                        hrp.AssemblyLinearVelocity =
+                            Vector3.new(vel.X * 3000, vel.Y + 3000, vel.Z * 3000)
+                        RunService.RenderStepped:Wait()
+                        if hrp and hrp.Parent then hrp.AssemblyLinearVelocity = vel end
+                    end)
+                    task.wait(0.005)
+                end
+                task.wait(0.001)
+            end
+            for _, cv in ipairs(dropConns) do pcall(function() cv:Disconnect() end) end
+            table.clear(dropConns); dropFiring = false
+            En.Drop = false; if VSets.Drop then VSets.Drop(false, true) end
+        end)
+    end
+    local function stopDrop()
+        for _, cv in ipairs(dropConns) do pcall(function() cv:Disconnect() end) end
+        table.clear(dropConns); dropFiring = false
+    end
+
+    -- â”€â”€ TP DOWN â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function execTPD()
+        if tpdFiring then return end; tpdFiring = true
+        pcall(function()
+            local h = getHRP(); if not h then return end
+            h.CFrame = CFrame.new(h.Position.X, -7.30, h.Position.Z)
+        end)
+        task.wait(0.3); tpdFiring = false
+        En.TPDown = false; if VSets.TPDown then VSets.TPDown(false, true) end
+    end
+
+    -- â”€â”€ GALAXY (jump boost ONLY, no gravity) â”€â”€
+    local function startGalaxy()
+        if galaxyOn then return end; galaxyOn = true
+        if Conn.galaxy then Conn.galaxy:Disconnect() end
+        Conn.galaxy = RunService.Heartbeat:Connect(function()
+            if not galaxyOn then return end
+            pcall(function()
+                local h  = getHRP(); local hm = getHum()
+                if not h or not hm then return end
+                local st = hm:GetState()
+                if st == Enum.HumanoidStateType.Freefall
+                or st == Enum.HumanoidStateType.Jumping then
+                    if tick() - lastHop > 0.09 then
+                        lastHop = tick()
+                        h.AssemblyLinearVelocity = Vector3.new(
+                            h.AssemblyLinearVelocity.X,
+                            V.HopPower,
+                            h.AssemblyLinearVelocity.Z
+                        )
+                    end
+                end
+            end)
+        end)
+    end
+    local function stopGalaxy()
+        galaxyOn = false
+        if Conn.galaxy then Conn.galaxy:Disconnect(); Conn.galaxy = nil end
+    end
+
+    -- â”€â”€ GALAXY SKY â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local origSky, gSky, gBloom, gCC = nil, nil, nil, nil
+    local gPlanets = {}
+    local function startGSky()
+        if gSky then return end
+        origSky = Lighting:FindFirstChildOfClass("Sky")
+        if origSky then origSky.Parent = nil end
+        gSky = Instance.new("Sky")
+        for _, k in ipairs({"SkyboxBk","SkyboxDn","SkyboxFt","SkyboxLf","SkyboxRt","SkyboxUp"}) do
+            gSky[k] = "rbxassetid://1534951537"
+        end
+        gSky.StarCount = 8000; gSky.CelestialBodiesShown = false
+        gSky.Parent    = Lighting; tag(gSky)
+
+        gBloom           = Instance.new("BloomEffect")
+        gBloom.Intensity = 1.3; gBloom.Size = 36; gBloom.Threshold = 0.75
+        gBloom.Parent    = Lighting; tag(gBloom)
+
+        gCC               = Instance.new("ColorCorrectionEffect")
+        gCC.Saturation    = 0.65; gCC.Contrast = 0.28
+        gCC.TintColor     = Color3.fromRGB(95, 175, 255)
+        gCC.Parent        = Lighting; tag(gCC)
+
+        Lighting.Ambient    = Color3.fromRGB(40, 80, 145)
+        Lighting.Brightness = 2.6; Lighting.ClockTime = 6
+
+        for i = 1, 3 do
+            local p = Instance.new("Part"); p.Shape = Enum.PartType.Ball
+            p.Anchored = true; p.CanCollide = false; p.CastShadow = false
+            p.Material = Enum.Material.Neon; p.Transparency = 0.42
+            local sz   = 500 + i * 180; p.Size = Vector3.new(sz, sz, sz)
+            p.Color    = Color3.fromRGB(35 + i*25, 130 + i*28, 255)
+            p.Position = Vector3.new(math.cos(i*2.1)*(2400+i*350), 1100+i*220, math.sin(i*2.1)*(2400+i*350))
+            p.Parent   = workspace; tag(p); table.insert(gPlanets, p)
+        end
+
+        Conn.gsky = RunService.Heartbeat:Connect(function()
+            if not En.GalaxySky then return end
+            local t = tick() * 0.38
+            Lighting.Ambient = Color3.fromRGB(
+                math.clamp(42 + math.floor(math.sin(t) * 32), 0, 255),
+                math.clamp(82 + math.floor(math.cos(t*0.88) * 42), 0, 255),
+                math.clamp(145 + math.floor(math.sin(t*1.18) * 52), 0, 255)
+            )
+            if gBloom then gBloom.Intensity = 1.0 + math.sin(t * 2.4) * 0.45 end
+        end)
+    end
+    local function stopGSky()
+        if Conn.gsky  then Conn.gsky:Disconnect(); Conn.gsky = nil end
+        if gSky       then gSky:Destroy();    gSky   = nil end
+        if origSky    then origSky.Parent = Lighting; origSky = nil end
+        if gBloom     then gBloom:Destroy(); gBloom  = nil end
+        if gCC        then gCC:Destroy();    gCC     = nil end
+        for _, o in gPlanets do if o then o:Destroy() end end; gPlanets = {}
+        Lighting.Ambient = Color3.fromRGB(127,127,127)
+        Lighting.Brightness = 2; Lighting.ClockTime = 14
+    end
+
+    -- â”€â”€ FLY MODE â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startFly()
+        if flyActive then return end; flyActive = true
+        pcall(function()
+            local ch  = Player.Character; if not ch then flyActive = false; return end
+            local hrp = ch:FindFirstChild("HumanoidRootPart"); if not hrp then flyActive = false; return end
+            local hm  = ch:FindFirstChildOfClass("Humanoid"); if not hm  then flyActive = false; return end
+            hm.PlatformStand = true
+
+            flyBodyPos           = Instance.new("BodyPosition")
+            flyBodyPos.MaxForce  = Vector3.new(1e5, 1e5, 1e5)
+            flyBodyPos.Position  = hrp.Position
+            flyBodyPos.D         = 200; flyBodyPos.P = 5000
+            flyBodyPos.Parent    = hrp; tag(flyBodyPos)
+
+            flyBodyGyro          = Instance.new("BodyGyro")
+            flyBodyGyro.MaxTorque = Vector3.new(1e5, 1e5, 1e5)
+            flyBodyGyro.D        = 300; flyBodyGyro.P = 10000
+            flyBodyGyro.CFrame   = hrp.CFrame
+            flyBodyGyro.Parent   = hrp; tag(flyBodyGyro)
+
+            Conn.fly = RunService.RenderStepped:Connect(function()
+                if not flyActive then return end
+                pcall(function()
+                    local camCF = Camera.CFrame
+                    local fwd   = camCF.LookVector
+                    local rght  = camCF.RightVector
+                    local up    = Vector3.new(0, 1, 0)
+                    local vel   = Vector3.zero
+
+                    if UserInputService:IsKeyDown(Enum.KeyCode.W) then vel = vel + fwd end
+                    if UserInputService:IsKeyDown(Enum.KeyCode.S) then vel = vel - fwd end
+                    if UserInputService:IsKeyDown(Enum.KeyCode.A) then vel = vel - rght end
+                    if UserInputService:IsKeyDown(Enum.KeyCode.D) then vel = vel + rght end
+                    if UserInputService:IsKeyDown(Enum.KeyCode.Space) then vel = vel + up end
+                    if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) then vel = vel - up end
+
+                    if vel.Magnitude > 0.01 then
+                        flyBodyPos.Position = flyBodyPos.Position + vel.Unit * V.FlySpeed * 0.016
+                    end
+                    flyBodyGyro.CFrame = Camera.CFrame
+                end)
+            end)
+        end)
+    end
+    local function stopFly()
+        flyActive = false
+        if Conn.fly then Conn.fly:Disconnect(); Conn.fly = nil end
+        if flyBodyPos  then flyBodyPos:Destroy();  flyBodyPos  = nil end
+        if flyBodyGyro then flyBodyGyro:Destroy(); flyBodyGyro = nil end
+        pcall(function()
+            local hm = getHum(); if hm then hm.PlatformStand = false end
+        end)
+    end
+
+    -- â”€â”€ NOCLIP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startNoClip()
+        if noClipConn then return end
+        noClipConn = RunService.Stepped:Connect(function()
+            if not En.NoClip then return end
+            pcall(function()
+                local ch = Player.Character; if not ch then return end
+                for _, p in ch:GetDescendants() do
+                    if p:IsA("BasePart") then p.CanCollide = false end
+                end
+            end)
+        end)
+    end
+    local function stopNoClip()
+        if noClipConn then noClipConn:Disconnect(); noClipConn = nil end
+        pcall(function()
+            local ch = Player.Character; if not ch then return end
+            for _, p in ch:GetDescendants() do
+                if p:IsA("BasePart") then p.CanCollide = true end
+            end
+        end)
+    end
+
+    -- â”€â”€ ANTI AFK â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startAntiAFK()
+        if afkConn then return end
+        local VirtualUser = game:GetService("VirtualUser")
+        afkConn = Player.Idled:Connect(function()
+            VirtualUser:CaptureController()
+            VirtualUser:ClickButton2(Vector2.new())
+        end)
+    end
+    local function stopAntiAFK()
+        if afkConn then afkConn:Disconnect(); afkConn = nil end
+    end
+
+    -- â”€â”€ AUTO STEAL (continuous) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function startAutoSteal()
+        if autoStealConn then return end; initScan()
+        autoStealConn = RunService.Heartbeat:Connect(function()
+            if not En.AutoSteal or ISf then return end
+            local hrp = getHRP(); if not hrp then return end
+            for _, ad in ipairs(aAC) do
+                if not ad.wp then continue end
+                local pm = PMC[ad.uid]
+                if not pm or not pm.Parent then pm = findPrompt(ad) end
+                if pm and pm.Enabled then
+                    local d = (hrp.Position - ad.wp).Magnitude
+                    local mx = (pm.MaxActivationDistance or 0) + 2
+                    if d <= mx then doSteal(pm) end
+                end
+            end
+        end)
+    end
+    local function stopAutoSteal()
+        if autoStealConn then autoStealConn:Disconnect(); autoStealConn = nil end
+    end
+
+    -- â”€â”€ HIGHLIGHT ESP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function addHighlight(p)
+        if highlightObjs[p] then return end
+        local h = Instance.new("SelectionBox")
+        h.Color3                 = BrickColor.new("Bright red").Color
+        h.LineThickness          = 0.07
+        h.SurfaceTransparency    = 0.6
+        h.SurfaceColor3          = Color3.fromRGB(255, 60, 60)
+        h.Adornee                = p.Character
+        h.Parent                 = workspace
+        tag(h)
+        highlightObjs[p]         = h
+    end
+    local function remHighlight(p)
+        local o = highlightObjs[p]
+        if o then pcall(function() o:Destroy() end); highlightObjs[p] = nil end
+    end
+    local function startHighlightESP()
+        for _, p in Players:GetPlayers() do if p ~= Player then addHighlight(p) end end
+        if Conn.hlesp then return end
+        Conn.hlesp = RunService.Heartbeat:Connect(function()
+            for _, p in Players:GetPlayers() do
+                if p ~= Player and En.HighlightESP then
+                    local h = highlightObjs[p]
+                    if not h or not h.Parent then addHighlight(p)
+                    elseif p.Character then highlightObjs[p].Adornee = p.Character end
+                end
+            end
+        end)
+        Players.PlayerAdded:Connect(function(p)
+            if p ~= Player and En.HighlightESP then task.wait(1); addHighlight(p) end
+        end)
+        Players.PlayerRemoving:Connect(remHighlight)
+    end
+    local function stopHighlightESP()
+        if Conn.hlesp then Conn.hlesp:Disconnect(); Conn.hlesp = nil end
+        for p in pairs(highlightObjs) do remHighlight(p) end
+    end
+
+    -- â”€â”€ PLAYER ESP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local espFolder = Instance.new("Folder", workspace)
+    espFolder.Name  = "AetherV4_ESP"; tag(espFolder)
+    local espData   = {}
+    local function addESP(p)
+        if espData[p] then return end
+        local ch  = p.Character; if not ch then return end
+        local hrp = ch:FindFirstChild("HumanoidRootPart"); if not hrp then return end
+        local bg  = Instance.new("BillboardGui")
+        bg.Adornee     = hrp; bg.AlwaysOnTop = true
+        bg.Size        = UDim2.new(0, 120, 0, 42)
+        bg.StudsOffset = Vector3.new(0, 3.2, 0)
+        bg.MaxDistance = 500; bg.Parent = espFolder; tag(bg)
+        local card = Instance.new("Frame", bg); card.Size = UDim2.new(1, 0, 1, 0)
+        card.BackgroundColor3 = Color3.new(0,0,0); card.BackgroundTransparency = 0.42
+        card.BorderSizePixel  = 0; mkCorner(card, 6)
+        local nl = Instance.new("TextLabel", card); nl.Size = UDim2.new(1,0,0.55,0)
+        nl.BackgroundTransparency = 1; nl.Text = p.Name; nl.TextColor3 = C.success
+        nl.Font = Enum.Font.GothamBold; nl.TextSize = 11
+        nl.TextStrokeColor3 = Color3.new(0,0,0); nl.TextStrokeTransparency = 0.4
+        local dl = Instance.new("TextLabel", card); dl.Name = "DL"
+        dl.Size = UDim2.new(1,0,0.45,0); dl.Position = UDim2.new(0,0,0.55,0)
+        dl.BackgroundTransparency = 1; dl.Text = "? m"; dl.TextColor3 = C.textDim
+        dl.Font = Enum.Font.Gotham; dl.TextSize = 10
+        dl.TextStrokeColor3 = Color3.new(0,0,0); dl.TextStrokeTransparency = 0.4
+        espData[p] = {bill = bg, dl = dl}
+    end
+    local function remESP(p)
+        local d = espData[p]
+        if d then pcall(function() d.bill:Destroy() end); espData[p] = nil end
+    end
+    local function startESP()
+        if Conn.esp then return end
+        for _, p in Players:GetPlayers() do if p ~= Player then addESP(p) end end
+        Conn.esp = RunService.Heartbeat:Connect(function()
+            if not En.PlayerESP then return end
+            local mHRP = getHRP()
+            for p, d in pairs(espData) do
+                pcall(function()
+                    if not p or not p.Parent then remESP(p); return end
+                    local pc = p.Character; if not pc then d.bill.Enabled = false; return end
+                    local ph = pc:FindFirstChild("HumanoidRootPart")
+                    if not ph then d.bill.Enabled = false; return end
+                    d.bill.Enabled = true; d.bill.Adornee = ph
+                    if mHRP then
+                        local dist = math.floor((ph.Position - mHRP.Position).Magnitude)
+                        d.dl.Text        = dist .. " m"
+                        d.dl.TextColor3  = dist < 30 and C.danger or dist < 80 and C.warn or C.textDim
+                    end
+                end)
+            end
+        end)
+        Players.PlayerAdded:Connect(function(p)
+            if p ~= Player and En.PlayerESP then task.wait(1); addESP(p) end
+        end)
+        Players.PlayerRemoving:Connect(remESP)
+    end
+    local function stopESP()
+        if Conn.esp then Conn.esp:Disconnect(); Conn.esp = nil end
+        for p in pairs(espData) do remESP(p) end; espData = {}
+    end
+
+    -- â”€â”€ CHAT SPY â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local chatSG = Instance.new("ScreenGui", Player.PlayerGui)
+    chatSG.Name = "AetherV4_ChatSpy"; chatSG.ResetOnSpawn = false; tag(chatSG)
+    local chatLabels = {}
+    local function startChatSpy()
+        for _, p in Players:GetPlayers() do
+            if p ~= Player then
+                local cn = p.Chatted:Connect(function(msg)
+                    if not En.ChatSpy then return end
+                    notify("ðŸ’¬ " .. p.Name, msg, "info", 4)
+                end)
+                table.insert(chatSpyConns, cn)
+            end
+        end
+        Players.PlayerAdded:Connect(function(p)
+            if p ~= Player then
+                local cn = p.Chatted:Connect(function(msg)
+                    if not En.ChatSpy then return end
+                    notify("ðŸ’¬ " .. p.Name, msg, "info", 4)
+                end)
+                table.insert(chatSpyConns, cn)
+            end
+        end)
+    end
+    local function stopChatSpy()
+        for _, c in pairs(chatSpyConns) do pcall(function() c:Disconnect() end) end
+        chatSpyConns = {}
+    end
+
+    -- â”€â”€ MODE PRESETS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function doNormal()
+        V.BoostSpeed = 58; V.StealSpeed = 29; V.HopPower = 26
+        V.StealRadius = 9; V.FlySpeed = 50; ISD.Radius = 9
+        for k, val in pairs({BoostSpeed=58,StealSpeed=29,HopPower=26,StealRadius=9,FlySpeed=50}) do
+            if SSets[k] then SSets[k](val) end
+        end
+        notify("âš¡ Normal Mode", "ØªÙ… ØªÙØ¹ÙŠÙ„ Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠØ©", "success", 2.5)
+    end
+    local function doLagger()
+        V.BoostSpeed = 36; V.StealSpeed = 14; V.HopPower = 22
+        V.StealRadius = 14; V.FlySpeed = 30; ISD.Radius = 14
+        for k, val in pairs({BoostSpeed=36,StealSpeed=14,HopPower=22,StealRadius=14,FlySpeed=30}) do
+            if SSets[k] then SSets[k](val) end
+        end
+        notify("ðŸ¢ Lagger Mode", "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ù…ÙˆØ­Ù‘Ø¯Ø© Ù„Ù„Ø¥Ø´Ø§Ø±Ø© Ø§Ù„Ø¶Ø¹ÙŠÙØ©", "warn", 2.5)
+    end
+    local function doMaxMode()
+        V.BoostSpeed = 90; V.StealSpeed = 45; V.HopPower = 45
+        V.StealRadius = 18; V.FlySpeed = 80; ISD.Radius = 18
+        for k, val in pairs({BoostSpeed=90,StealSpeed=45,HopPower=45,StealRadius=18,FlySpeed=80}) do
+            if SSets[k] then SSets[k](val) end
+        end
+        notify("ðŸ”¥ Max Mode", "Ø£Ø¹Ù„Ù‰ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª â€” Ù‚Ø¯ ØªØ³Ø¨Ø¨ ØªÙ‚Ø±ÙŠØ±!", "error", 3)
+    end
+
+    -- â”€â”€ REJOIN â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local function doRejoin()
+        notify("Rejoin", "Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…...", "system", 2)
+        task.wait(1.5)
+        pcall(function()
+            game:GetService("TeleportService"):Teleport(game.PlaceId, Player)
+        end)
+    end
+
+    -- â”€â”€ COORD ESP â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    local coordF = Instance.new("Folder", workspace)
+    coordF.Name  = "AetherV4_CoordESP"; tag(coordF)
+    local function mkWP(pos, nm, mo, isR)
+        local d = Instance.new("Part", coordF)
+        d.Anchored = true; d.CanCollide = false; d.CastShadow = false
+        d.Material = Enum.Material.Neon; d.Shape = Enum.PartType.Ball
+        d.Size = Vector3.new(1, 1, 1); d.Position = pos; d.Transparency = 0.15
+        d.Color = isR and Color3.fromRGB(128, 0, 200) or Color3.fromRGB(0, 200, 80); tag(d)
+        local bb = Instance.new("BillboardGui", d); bb.AlwaysOnTop = true
+        bb.Size = UDim2.new(0, 140, 0, 28); bb.StudsOffset = Vector3.new(0, 2, 0); bb.MaxDistance = 300
+        local tx = Instance.new("TextLabel", bb); tx.Size = UDim2.new(1,0,1,0)
+        tx.BackgroundTransparency = 1
+        tx.Text = nm .. "[" .. (mo == 1 and "N" or "S") .. "]"
+        tx.TextColor3 = isR and Color3.fromRGB(180,100,255) or Color3.fromRGB(100,255,150)
+        tx.TextStrokeColor3 = Color3.new(0,0,0); tx.TextStrokeTransparency = 0
+        tx.Font = Enum.Font.GothamBold; tx.TextSize = 11
+    end
+    for i, w in ipairs(LWP) do mkWP(w[1], "L"..i, w[2], false) end
+    for i, w in ipairs(RWP) do mkWP(w[1], "R"..i, w[2], true)  end
+
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    -- GUI SYSTEM
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    local sg = Instance.new("ScreenGui")
+    sg.Name         = "Aether Hub V4"
+    sg.ResetOnSpawn = false
+    sg.DisplayOrder = 100
+    sg.Parent       = Player.PlayerGui
+    tag(sg)
+
+    local guiVisible = true
+    local useMobile  = (scriptVersion == "mobile")
+    local hideGUI    = function() end
+    local showGUI    = function() end
+
+    -- â”€â”€ WIDGET BUILDERS â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+    local function buildSlider(parent, yPos, label, minV, maxV, valKey, onChange)
+        local row = Instance.new("Frame", parent)
+        row.Size               = UDim2.new(1, 0, 0, 30)
+        row.Position           = UDim2.new(0, 0, 0, yPos)
+        row.BackgroundColor3   = C.card
+        row.BackgroundTransparency = 0.28
+        row.BorderSizePixel    = 0
+        row.ZIndex             = 20
+        mkCorner(row, 7)
+
+        local nameLbl = Instance.new("TextLabel", row)
+        nameLbl.Size               = UDim2.new(0.50, 0, 1, 0)
+        nameLbl.Position           = UDim2.new(0, 6, 0, 0)
+        nameLbl.BackgroundTransparency = 1
+        nameLbl.Text               = label
+        nameLbl.TextColor3         = C.textDim
+        nameLbl.Font               = Enum.Font.GothamBold
+        nameLbl.TextSize           = 10
+        nameLbl.TextXAlignment     = Enum.TextXAlignment.Left
+        nameLbl.ZIndex             = 21
+
+        local valLbl = Instance.new("TextLabel", row)
+        valLbl.Size               = UDim2.new(0.16, 0, 1, 0)
+        valLbl.Position           = UDim2.new(0.50, 0, 0, 0)
+        valLbl.BackgroundTransparency = 1
+        valLbl.Text               = tostring(V[valKey] or 0)
+        valLbl.TextColor3         = C.text
+        valLbl.Font               = Enum.Font.GothamBold
+        valLbl.TextSize           = 10
+        valLbl.TextXAlignment     = Enum.TextXAlignment.Right
+        valLbl.ZIndex             = 21
+
+        local track = Instance.new("Frame", row)
+        track.Size             = UDim2.new(0.28, 0, 0, 7)
+        track.Position         = UDim2.new(0.68, 0, 0.5, -3)
+        track.BackgroundColor3 = Color3.fromRGB(18, 28, 48)
+        track.BorderSizePixel  = 0
+        track.ZIndex           = 21
+        mkCorner(track, 5)
+        glowBorder(track, SS.SliderTrack, 0.8)
+
+        local fill = Instance.new("Frame", track)
+        fill.BackgroundColor3 = C.accent
+        fill.BorderSizePixel  = 0
+        fill.ZIndex           = 22
+        mkCorner(fill, 5)
+
+        local pct = math.clamp(((V[valKey] or 0) - minV) / (maxV - minV), 0, 1)
+        fill.Size = UDim2.new(pct, 0, 1, 0)
+
+        local function setVal(val)
+            val = math.clamp(math.floor(val), minV, maxV)
+            V[valKey]   = val
+            valLbl.Text = tostring(val)
+            pct         = (val - minV) / (maxV - minV)
+            tween(fill, {Size = UDim2.new(pct, 0, 1, 0)}, 0.07):Play()
+            if onChange then onChange(val) end
+        end
+        SSets[valKey] = setVal
+
+        local dragging   = false
+        local sliderInp  = nil
+
+        track.InputBegan:Connect(function(inp)
+            if inp.UserInputType == Enum.UserInputType.Touch
+            or inp.UserInputType == Enum.UserInputType.MouseButton1 then
+                dragging = true
+                if inp.UserInputType == Enum.UserInputType.Touch then sliderInp = inp end
+            end
+        end)
+
+        RunService.RenderStepped:Connect(function()
+            if not dragging then return end
+            local relX
+            if IS_PC then
+                if not UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then
+                    dragging = false; return
+                end
+                local mp = UserInputService:GetMouseLocation()
+                relX = (mp.X - track.AbsolutePosition.X) / track.AbsoluteSize.X
+            else
+                if not sliderInp then dragging = false; return end
+                local st = sliderInp.UserInputState
+                if st == Enum.UserInputState.End or st == Enum.UserInputState.Cancel then
+                    dragging = false; sliderInp = nil; return
+                end
+                relX = (sliderInp.Position.X - track.AbsolutePosition.X) / track.AbsoluteSize.X
+            end
+            setVal(minV + (maxV - minV) * math.clamp(relX, 0, 1))
+        end)
+
+        return row
+    end
+
+    local function buildToggle(parent, yPos, label, eKey, onToggle, h, zBase)
+        h     = h     or 34
+        zBase = zBase or 10
+
+        local row = Instance.new("Frame", parent)
+        row.Size               = UDim2.new(1, 0, 0, h)
+        row.Position           = UDim2.new(0, 0, 0, yPos)
+        row.BackgroundColor3   = C.btnOff
+        row.BackgroundTransparency = 0.18
+        row.BorderSizePixel    = 0
+        row.ZIndex             = zBase
+        mkCorner(row, 8)
+        glowBorder(row, SS.RowBorder, 1.1)
+
+        local lbl = Instance.new("TextLabel", row)
+        lbl.Size               = UDim2.new(0.62, 0, 1, 0)
+        lbl.Position           = UDim2.new(0, 8, 0, 0)
+        lbl.BackgroundTransparency = 1
+        lbl.Text               = label
+        lbl.TextColor3         = C.text
+        lbl.Font               = Enum.Font.GothamSemibold
+        lbl.TextSize           = 11
+        lbl.TextXAlignment     = Enum.TextXAlignment.Left
+        lbl.ZIndex             = zBase + 1
+        glowText(lbl, SS.TextEffect)
+
+        -- pill toggle
+        local pill = Instance.new("Frame", row)
+        pill.Size             = UDim2.new(0, 32, 0, 18)
+        pill.Position         = UDim2.new(1, -38, 0.5, -9)
+        pill.BackgroundColor3 = Color3.fromRGB(32, 38, 55)
+        pill.BorderSizePixel  = 0
+        pill.ZIndex           = zBase + 2
+        mkCorner(pill, 11)
+
+        local knob = Instance.new("Frame", pill)
+        knob.Size             = UDim2.new(0, 13, 0, 13)
+        knob.Position         = UDim2.new(0, 2, 0.5, -6)
+        knob.BackgroundColor3 = C.textDim
+        knob.BorderSizePixel  = 0
+        knob.ZIndex           = zBase + 3
+        mkCorner(knob, 9)
+
+        local isOn = false
+        local function setVis(on, skipCb)
+            isOn = on; En[eKey] = on
+            tween(knob, {
+                Position          = on and UDim2.new(0, 17, 0.5, -6) or UDim2.new(0, 2, 0.5, -6),
+                BackgroundColor3  = on and C.success or C.textDim,
+            }, 0.14):Play()
+            tween(pill, {BackgroundColor3 = on and Color3.fromRGB(12, 52, 32) or Color3.fromRGB(32, 38, 55)}, 0.14):Play()
+            tween(row,  {BackgroundColor3 = on and C.btnOn or C.btnOff}, 0.14):Play()
+            lbl.TextColor3 = on and C.textOn or C.text
+            if not skipCb then onToggle(on) end
+        end
+        VSets[eKey] = setVis
+
+        local clickArea = Instance.new("TextButton", row)
+        clickArea.Size               = UDim2.new(1, 0, 1, 0)
+        clickArea.BackgroundTransparency = 1
+        clickArea.Text               = ""
+        clickArea.ZIndex             = zBase + 4
+        clickArea.AutoButtonColor    = false
+        clickArea.Activated:Connect(function() setVis(not isOn) end)
+
+        return row, setVis
+    end
+
+    local function buildActionBtn(parent, yPos, label, onClick, h, zBase, col1, col2)
+        h     = h     or 30
+        zBase = zBase or 10
+        col1  = col1  or C.accent
+        col2  = col2  or C.neon
+
+        local row = Instance.new("Frame", parent)
+        row.Size               = UDim2.new(1, 0, 0, h)
+        row.Position           = UDim2.new(0, 0, 0, yPos)
+        row.BackgroundColor3   = C.card
+        row.BackgroundTransparency = 0.18
+        row.BorderSizePixel    = 0
+        row.ZIndex             = zBase
+        mkCorner(row, 7)
+        glowBorder(row, SS.ButtonBorder, 1.3, col1, col2)
+
+        local btn = Instance.new("TextButton", row)
+        btn.Size               = UDim2.new(1, 0, 1, 0)
+        btn.BackgroundTransparency = 1
+        btn.Text               = label
+        btn.TextColor3         = C.text
+        btn.Font               = Enum.Font.GothamBlack
+        btn.TextSize           = 11
+        btn.AutoButtonColor    = false
+        btn.ZIndex             = zBase + 1
+        glowText(btn, SS.TextEffect, col1, col2, C.text)
+
+        btn.Activated:Connect(function() onClick(btn) end)
+        return btn
+    end
+
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    -- MOBILE UI
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    if useMobile then
+        local VP = Camera.ViewportSize
+        local SW, SH = VP.X, VP.Y
+
+        -- Adaptive dimensions
+        local FW     = math.clamp(math.floor(SW * 0.44), 158, 225)
+        local BH     = math.clamp(math.floor(SH * 0.073), 29, 44)
+        local BGAP   = math.clamp(math.floor(SH * 0.009), 3, 7)
+        local TH     = math.clamp(math.floor(SH * 0.046), 22, 32)
+        local PAD    = 6
+        local BCOLS  = 2
+        local BCOLW  = math.floor((FW - PAD*2 - BGAP) / BCOLS)
+        local BFONT  = math.clamp(math.floor(SH * 0.014), 10, 14)
+
+        local features = {
+            {"Speed",    "SpeedBoost",   function() startSpeed() end,        function() stopSpeed() end},
+            {"AntiRag",  "AntiRagdoll",  function() startAntiRag() end,      function() stopAntiRag() end},
+            {"ISteal",   "InstaSteal",   function() startIS() end,           function() stopIS() end},
+            {"FSteal",   "FastSteal",    function() startFastSteal() end,    function() stopFastSteal() end},
+            {"Galaxy",   "Galaxy",       function() startGalaxy() end,       function() stopGalaxy() end},
+            {"GSky",     "GalaxySky",    function() startGSky() end,         function() stopGSky() end},
+            {"Fly",      "Fly",          function() startFly() end,          function() stopFly() end},
+            {"NoClip",   "NoClip",       function() startNoClip() end,       function() stopNoClip() end},
+            {"AutoStl",  "AutoSteal",    function() startAutoSteal() end,    function() stopAutoSteal() end},
+            {"Anti-AFK", "AntiAFK",      function() startAntiAFK() end,      function() stopAntiAFK() end},
+            {"ESP",      "PlayerESP",    function() startESP() end,          function() stopESP() end},
+            {"ChatSpy",  "ChatSpy",      function() startChatSpy() end,      function() stopChatSpy() end},
+        }
+        -- fire-and-forget
+        local fireAndForget = {Drop=true, TPDown=true}
+
+        local ROWS = math.ceil(#features / BCOLS)
+        local FH   = TH + PAD + (BH + BGAP) * ROWS + BGAP + BH + PAD + 2
+
+        local FX = math.floor(SW - FW - 6)
+        local FY = math.clamp(math.floor(SH/2 - FH/2), 4, SH - FH - 4)
+
+        -- Main frame
+        local mF = Instance.new("Frame", sg)
+        mF.Name                  = "MobileMain"
+        mF.Size                  = UDim2.new(0, FW, 0, FH)
+        mF.Position              = UDim2.new(0, FX, 0, FY)
+        mF.BackgroundColor3      = C.bg
+        mF.BackgroundTransparency = 0.1
+        mF.BorderSizePixel       = 0
+        mF.ZIndex                = 50
+        mF.Active                = true
+        mkCorner(mF, 11)
+        glowBorder(mF, SS.MainBorder, 2.2, C.accent, C.neon)
+
+        -- Title bar (drag handle)
+        local titleBar = Instance.new("Frame", mF)
+        titleBar.Size              = UDim2.new(1, 0, 0, TH)
+        titleBar.BackgroundTransparency = 1
+        titleBar.ZIndex            = 51
+
+        local titleLbl = Instance.new("TextLabel", titleBar)
+        titleLbl.Size              = UDim2.new(1, -TH, 1, 0)
+        titleLbl.Position          = UDim2.new(0, 6, 0, 0)
+        titleLbl.BackgroundTransparency = 1
+        titleLbl.Text              = "âœ¦ AETHER V4"
+        titleLbl.TextColor3        = C.text
+        titleLbl.Font              = Enum.Font.GothamBlack
+        titleLbl.TextSize          = math.clamp(math.floor(SH * 0.019), 11, 16)
+        titleLbl.ZIndex            = 52
+        titleLbl.TextXAlignment    = Enum.TextXAlignment.Left
+        glowText(titleLbl, SS.TextEffect)
+
+        -- Minimize button (top-right of frame)
+        local minBtn = Instance.new("TextButton", titleBar)
+        minBtn.Size               = UDim2.new(0, TH - 4, 0, TH - 4)
+        minBtn.Position           = UDim2.new(1, -(TH), 0, 2)
+        minBtn.BackgroundColor3   = Color3.fromRGB(18, 30, 58)
+        minBtn.BackgroundTransparency = 0.2
+        minBtn.BorderSizePixel    = 0
+        minBtn.Text               = "â€”"
+        minBtn.TextColor3         = C.accent
+        minBtn.Font               = Enum.Font.GothamBlack
+        minBtn.TextSize           = 12
+        minBtn.AutoButtonColor    = false
+        minBtn.ZIndex             = 58
+        mkCorner(minBtn, 6)
+        glowBorder(minBtn, SS.CloseBtn, 1.0)
+
+        local isMinimized = false
+        local fullH       = FH
+        local miniH       = TH + 2
+        minBtn.Activated:Connect(function()
+            isMinimized = not isMinimized
+            tween(mF, {Size = UDim2.new(0, FW, 0, isMinimized and miniH or fullH)},
+                  0.24, Enum.EasingStyle.Quart):Play()
+            minBtn.Text = isMinimized and "â–¡" or "â€”"
+        end)
+
+        makeDraggable(mF, titleBar)
+
+        -- Feature grid buttons
+        for idx, feat in ipairs(features) do
+            local col = (idx - 1) % BCOLS
+            local row = math.floor((idx - 1) / BCOLS)
+            local xOff = PAD + col * (BCOLW + BGAP)
+            local yOff = TH + PAD + row * (BH + BGAP)
+            local label, eKey, startFn, stopFn = feat[1], feat[2], feat[3], feat[4]
+
+            local btn = Instance.new("TextButton", mF)
+            btn.Size               = UDim2.new(0, BCOLW, 0, BH)
+            btn.Position           = UDim2.new(0, xOff, 0, yOff)
+            btn.BackgroundColor3   = C.btnOff
+            btn.BackgroundTransparency = 0.14
+            btn.BorderSizePixel    = 0
+            btn.Text               = label
+            btn.TextColor3         = C.text
+            btn.Font               = Enum.Font.GothamBold
+            btn.TextSize           = BFONT
+            btn.AutoButtonColor    = false
+            btn.ZIndex             = 55
+            mkCorner(btn, 8)
+            glowBorder(btn, SS.ButtonBorder, 1.0)
+
+            local isOn = false
+            local function setVis(on, skipCb)
+                isOn = on; En[eKey] = on
+                tween(btn, {
+                    BackgroundColor3      = on and C.btnOn  or C.btnOff,
+                    BackgroundTransparency = on and 0.06   or 0.14,
+                }, 0.15):Play()
+                btn.TextColor3 = on and C.textOn or C.text
+                if not skipCb then if on then startFn() else stopFn() end end
+            end
+            VSets[eKey] = setVis
+
+            btn.Activated:Connect(function()
+                if fireAndForget[eKey] then
+                    setVis(true)
+                    task.spawn(function() startFn(); task.wait(1.2); setVis(false, true) end)
+                else
+                    setVis(not isOn)
+                end
+            end)
+        end
+
+        -- Settings button
+        local setBtnY = TH + PAD + ROWS * (BH + BGAP) + BGAP
+        local setBtn = Instance.new("TextButton", mF)
+        setBtn.Size               = UDim2.new(1, -PAD*2, 0, BH)
+        setBtn.Position           = UDim2.new(0, PAD, 0, setBtnY)
+        setBtn.BackgroundColor3   = C.card
+        setBtn.BackgroundTransparency = 0.08
+        setBtn.BorderSizePixel    = 0
+        setBtn.Text               = "âš™  Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª"
+        setBtn.TextColor3         = C.text
+        setBtn.Font               = Enum.Font.GothamBlack
+        setBtn.TextSize           = BFONT
+        setBtn.AutoButtonColor    = false
+        setBtn.ZIndex             = 57
+        mkCorner(setBtn, 8)
+        glowBorder(setBtn, SS.ButtonBorder, 1.5, C.accent, C.neon)
+        glowText(setBtn, SS.TextEffect)
+
+        -- Settings Panel
+        local SPW = math.clamp(math.floor(SW * 0.76), 255, 330)
+        local SPH = math.clamp(math.floor(SH * 0.80), 360, 530)
+
+        local sPnl = Instance.new("Frame", sg)
+        sPnl.Name                  = "SettingsPanel"
+        sPnl.Size                  = UDim2.new(0, SPW, 0, SPH)
+        sPnl.AnchorPoint           = Vector2.new(0.5, 0.5)
+        sPnl.Position              = UDim2.new(0.5, 0, 0.5, 0)
+        sPnl.BackgroundColor3      = C.bg
+        sPnl.BackgroundTransparency = 0.07
+        sPnl.BorderSizePixel       = 0
+        sPnl.Visible               = false
+        sPnl.Active                = true
+        sPnl.ZIndex                = 200
+        sPnl.ClipsDescendants      = true
+        mkCorner(sPnl, 16)
+        glowBorder(sPnl, SS.MainBorder, 2.4, C.accent, C.purple)
+        tag(sPnl)
+        makeDraggable(sPnl, sPnl)
+
+        local sOpen = false
+        local function toggleSettings()
+            if sOpen then
+                tween(sPnl, {Size = UDim2.new(0, 0, 0, 0), BackgroundTransparency = 1},
+                      0.22, Enum.EasingStyle.Quart, Enum.EasingDirection.In):Play()
+                task.wait(0.24)
+                sPnl.Visible = false
+                sPnl.Size    = UDim2.new(0, SPW, 0, SPH)
+                sPnl.BackgroundTransparency = 0.07
+            else
+                sPnl.Visible = true
+                sPnl.Size    = UDim2.new(0, 0, 0, 0)
+                sPnl.BackgroundTransparency = 1
+                tween(sPnl, {Size = UDim2.new(0, SPW, 0, SPH), BackgroundTransparency = 0.07},
+                      0.30, Enum.EasingStyle.Back, Enum.EasingDirection.Out):Play()
+            end
+            sOpen = not sOpen
+        end
+        setBtn.Activated:Connect(toggleSettings)
+
+        -- Settings header
+        local sHdr = Instance.new("Frame", sPnl)
+        sHdr.Size               = UDim2.new(1, 0, 0, 40)
+        sHdr.BackgroundColor3   = Color3.fromRGB(10, 18, 32)
+        sHdr.BackgroundTransparency = 0.3
+        sHdr.BorderSizePixel    = 0
+        sHdr.ZIndex             = 201
+        mkCorner(sHdr, 16)
+
+        local sHdrGrad = Instance.new("UIGradient", sHdr)
+        sHdrGrad.Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Color3.fromRGB(18, 45, 100)),
+            ColorSequenceKeypoint.new(1, Color3.fromRGB(35, 80, 160)),
+        })
+        task.spawn(function()
+            while sHdr and sHdr.Parent do
+                sHdrGrad.Rotation = (sHdrGrad.Rotation + 0.6) % 360; task.wait(0.033)
+            end
+        end)
+
+        local sTitleL = Instance.new("TextLabel", sHdr)
+        sTitleL.Size               = UDim2.new(1, -44, 1, 0)
+        sTitleL.Position           = UDim2.new(0, 12, 0, 0)
+        sTitleL.BackgroundTransparency = 1
+        sTitleL.Text               = "âš™  Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª"
+        sTitleL.TextColor3         = C.text
+        sTitleL.Font               = Enum.Font.GothamBlack
+        sTitleL.TextSize           = 14
+        sTitleL.TextXAlignment     = Enum.TextXAlignment.Left
+        sTitleL.ZIndex             = 202
+        glowText(sTitleL, SS.TextEffect)
+
+        local sClsBtn = Instance.new("TextButton", sHdr)
+        sClsBtn.Size               = UDim2.new(0, 28, 0, 28)
+        sClsBtn.Position           = UDim2.new(1, -34, 0.5, -14)
+        sClsBtn.BackgroundColor3   = Color3.fromRGB(55, 12, 12)
+        sClsBtn.BackgroundTransparency = 0.15
+        sClsBtn.BorderSizePixel    = 0
+        sClsBtn.Text               = "âœ•"
+        sClsBtn.TextColor3         = C.danger
+        sClsBtn.Font               = Enum.Font.GothamBlack
+        sClsBtn.TextSize           = 14
+        sClsBtn.AutoButtonColor    = false
+        sClsBtn.ZIndex             = 203
+        mkCorner(sClsBtn, 7)
+        glowBorder(sClsBtn, SS.CloseBtn, 1.0, C.danger, C.warn)
+        sClsBtn.Activated:Connect(function() if sOpen then toggleSettings() end end)
+
+        -- Divider
+        local sDivide = Instance.new("Frame", sPnl)
+        sDivide.Size             = UDim2.new(0.9, 0, 0, 1)
+        sDivide.Position         = UDim2.new(0.05, 0, 0, 40)
+        sDivide.BackgroundColor3 = C.border
+        sDivide.BackgroundTransparency = 0.25
+        sDivide.BorderSizePixel  = 0
+        sDivide.ZIndex           = 202
+
+        -- Scroll frame
+        local sSC = Instance.new("ScrollingFrame", sPnl)
+        sSC.Size                  = UDim2.new(1, -8, 1, -46)
+        sSC.Position              = UDim2.new(0, 4, 0, 44)
+        sSC.CanvasSize            = UDim2.new(0, 0, 0, 0)
+        sSC.AutomaticCanvasSize   = Enum.AutomaticSize.Y
+        sSC.ScrollBarThickness    = 3
+        sSC.ScrollBarImageColor3  = C.border
+        sSC.BackgroundTransparency = 1
+        sSC.BorderSizePixel       = 0
+        sSC.ZIndex                = 205
+        sSC.ScrollingDirection    = Enum.ScrollingDirection.Y
+
+        local function sSection(title, y)
+            local lbl = Instance.new("TextLabel", sSC)
+            lbl.Size               = UDim2.new(1, 0, 0, 20)
+            lbl.Position           = UDim2.new(0, 0, 0, y)
+            lbl.BackgroundTransparency = 1
+            lbl.Text               = title
+            lbl.TextColor3         = C.accent
+            lbl.Font               = Enum.Font.GothamBlack
+            lbl.TextSize           = 11
+            lbl.TextXAlignment     = Enum.TextXAlignment.Left
+            lbl.ZIndex             = 210
+            glowText(lbl, SS.TextEffect, C.accent, C.neon, C.text)
+            return y + 22
+        end
+
+        local function movToggle(parent, labelText, eKey, startFn, stopFn, yRef)
+            local row = Instance.new("Frame", parent)
+            row.Size               = UDim2.new(1, 0, 0, 36)
+            row.Position           = UDim2.new(0, 0, 0, yRef)
+            row.BackgroundColor3   = C.card
+            row.BackgroundTransparency = 0.2
+            row.BorderSizePixel    = 0
+            row.ZIndex             = 210
+            mkCorner(row, 8)
+            glowBorder(row, SS.RowBorder, 1.0)
+
+            local lbl = Instance.new("TextLabel", row)
+            lbl.Size               = UDim2.new(0.72, 0, 1, 0)
+            lbl.Position           = UDim2.new(0, 8, 0, 0)
+            lbl.BackgroundTransparency = 1
+            lbl.Text               = labelText
+            lbl.TextColor3         = C.text
+            lbl.Font               = Enum.Font.GothamSemibold
+            lbl.TextSize           = 11
+            lbl.ZIndex             = 211
+            glowText(lbl, SS.TextEffect)
+
+            local pill = Instance.new("Frame", row)
+            pill.Size             = UDim2.new(0, 32, 0, 18)
+            pill.Position         = UDim2.new(1, -38, 0.5, -9)
+            pill.BackgroundColor3 = Color3.fromRGB(32, 38, 55)
+            pill.BorderSizePixel  = 0; pill.ZIndex = 212; mkCorner(pill, 11)
+            local knob = Instance.new("Frame", pill)
+            knob.Size             = UDim2.new(0, 13, 0, 13)
+            knob.Position         = UDim2.new(0, 2, 0.5, -6)
+            knob.BackgroundColor3 = C.textDim
+            knob.BorderSizePixel  = 0; knob.ZIndex = 213; mkCorner(knob, 9)
+
+            local isOn = false
+            local function sv(on, skip)
+                isOn = on; En[eKey] = on
+                tween(knob, {Position=on and UDim2.new(0,17,0.5,-6) or UDim2.new(0,2,0.5,-6),
+                             BackgroundColor3=on and C.success or C.textDim}, 0.14):Play()
+                tween(pill, {BackgroundColor3=on and Color3.fromRGB(12,52,32) or Color3.fromRGB(32,38,55)}, 0.14):Play()
+                tween(row,  {BackgroundColor3=on and C.btnOn or C.card}, 0.14):Play()
+                lbl.TextColor3 = on and C.textOn or C.text
+                if not skip then if on then startFn() else stopFn() end end
+            end
+            VSets[eKey] = sv
+
+            local mb = Instance.new("TextButton", row)
+            mb.Size               = UDim2.new(1, 0, 1, 0)
+            mb.BackgroundTransparency = 1
+            mb.Text               = ""
+            mb.ZIndex             = 214
+            mb.AutoButtonColor    = false
+            mb.Activated:Connect(function() sv(not isOn) end)
+        end
+
+        local sy = 6
+        sy = sSection("â”€â”€ Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€", sy)
+        buildSlider(sSC, sy, "Boost Speed",  14, 90, "BoostSpeed",  nil); sy = sy + 34
+        buildSlider(sSC, sy, "Steal Speed",  10, 45, "StealSpeed",  nil); sy = sy + 34
+        buildSlider(sSC, sy, "Hop Power",    10, 80, "HopPower",    nil); sy = sy + 34
+        buildSlider(sSC, sy, "Fly Speed",    10, 90, "FlySpeed",    nil); sy = sy + 34
+        buildSlider(sSC, sy, "Steal Radius", 5,  24, "StealRadius", nil); sy = sy + 38
+
+        sy = sSection("â”€â”€ Ø£Ø²Ø±Ø§Ø± Ø§Ù„ØªØ­Ø±ÙŠÙƒ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€", sy)
+        movToggle(sSC, "Auto Left",           "AutoLeft",  function() setMoveMode("AutoLeft", startAL) end, stopAL, sy); sy = sy + 40
+        movToggle(sSC, "Auto Right",          "AutoRight", function() setMoveMode("AutoRight",startAR) end, stopAR, sy); sy = sy + 40
+        movToggle(sSC, "Lock (ØªÙˆØ¬ÙŠÙ‡ ÙÙ‚Ø·)",   "Lock",      function() setMoveMode("Lock",startLock) end, stopLock, sy); sy = sy + 44
+
+        sy = sSection("â”€â”€ Ø§Ù„Ø¥Ø¬Ø±Ø§Ø¡Ø§Øª â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€", sy)
+        buildActionBtn(sSC, sy, "â¬‡  TP Down", function(b)
+            task.spawn(execTPD); b.Text = "âœ” ØªÙ…!"; task.delay(1.2, function() if b and b.Parent then b.Text = "â¬‡  TP Down" end end)
+        end, 30, 210, C.accent, C.neon); sy = sy + 34
+        buildActionBtn(sSC, sy, "ðŸ’¥  Drop", function(b)
+            task.spawn(execDrop); b.Text = "âœ” ØªÙ…!"; task.delay(1.5, function() if b and b.Parent then b.Text = "ðŸ’¥  Drop" end end)
+        end, 30, 210, C.danger, C.warn); sy = sy + 34
+        buildActionBtn(sSC, sy, "ðŸ”„  Rejoin", function(b)
+            doRejoin()
+        end, 30, 210, C.purple, C.neon); sy = sy + 38
+
+        sy = sSection("â”€â”€ Ø§Ù„Ø£ÙˆØ¶Ø§Ø¹ â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€", sy)
+        buildActionBtn(sSC, sy, "âš¡  Normal Mode", function(b)
+            doNormal(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="âš¡  Normal Mode" end end)
+        end, 32, 210, C.success, C.neon); sy = sy + 36
+        buildActionBtn(sSC, sy, "ðŸ¢  Lagger Mode", function(b)
+            doLagger(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="ðŸ¢  Lagger Mode" end end)
+        end, 32, 210, C.warn, C.gold); sy = sy + 36
+        buildActionBtn(sSC, sy, "ðŸ”¥  Max Mode", function(b)
+            doMaxMode(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="ðŸ”¥  Max Mode" end end)
+        end, 32, 210, C.danger, C.purple); sy = sy + 40
+
+        hideGUI = function()
+            mF.Visible = false
+            if sOpen then toggleSettings() end
+            guiVisible = false
+        end
+        showGUI = function()
+            mF.Visible = true; guiVisible = true
+        end
+
+        notify("AETHER V4", "ØªÙ… Ø§Ù„ØªØ­Ù…ÙŠÙ„ Ø¨Ù†Ø¬Ø§Ø­ Ø¹Ù„Ù‰ Mobile", "success", 4)
+
+    else
+        -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+        -- PC UI
+        -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+        local VP = Camera.ViewportSize
+
+        local main = Instance.new("Frame", sg)
+        main.Name                  = "PCMain"
+        main.Size                  = UDim2.new(0, 440, 0, 460)
+        main.AnchorPoint           = Vector2.new(0.5, 0.5)
+        main.Position              = UDim2.new(0.5, 0, 0.5, 0)
+        main.BackgroundColor3      = C.bg
+        main.BackgroundTransparency = 0.16
+        main.BorderSizePixel       = 0
+        main.Active                = true
+        main.ClipsDescendants      = true
+        main.ZIndex                = 10
+        mkCorner(main, 15)
+        glowBorder(main, SS.MainBorder, 2.6, C.accent, C.neon)
+
+        -- Responsive scale
+        local uiSc = Instance.new("UIScale", main)
+        local function updateScale()
+            uiSc.Scale = math.clamp(math.min(Camera.ViewportSize.X, Camera.ViewportSize.Y) / 870, 0.36, 1.25)
+        end
+        updateScale()
+        task.spawn(function()
+            while sg and sg.Parent do updateScale(); task.wait(0.35) end
+        end)
+
+        -- Initial position (bottom-right)
+        task.spawn(function()
+            task.wait(0.05)
+            local vp = Camera.ViewportSize
+            local sc = uiSc.Scale
+            main.Position = UDim2.new(0,
+                vp.X - main.Size.X.Offset * sc / 2 - 18,
+                0,
+                main.Size.Y.Offset * sc / 2 + 18
+            )
+        end)
+
+        makeDraggable(main, main)
+
+        -- Header
+        local hdr = Instance.new("Frame", main)
+        hdr.Size               = UDim2.new(1, 0, 0, 48)
+        hdr.BackgroundColor3   = Color3.fromRGB(9, 15, 28)
+        hdr.BackgroundTransparency = 0.35
+        hdr.BorderSizePixel    = 0
+        hdr.ZIndex             = 11
+        mkCorner(hdr, 15)
+        local hdrGrad = Instance.new("UIGradient", hdr)
+        hdrGrad.Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0,   Color3.fromRGB(18, 48, 110)),
+            ColorSequenceKeypoint.new(0.5, Color3.fromRGB(38, 85, 175)),
+            ColorSequenceKeypoint.new(1,   Color3.fromRGB(18, 48, 110)),
+        })
+        task.spawn(function()
+            while hdr and hdr.Parent do hdrGrad.Rotation = (hdrGrad.Rotation + 0.45) % 360; task.wait(0.033) end
+        end)
+
+        local tLbl = Instance.new("TextLabel", hdr)
+        tLbl.Size               = UDim2.new(1, -80, 0, 28)
+        tLbl.Position           = UDim2.new(0, 8, 0, 4)
+        tLbl.BackgroundTransparency = 1
+        tLbl.Text               = "âœ¦  AETHER HUB V4" .. (KS.owner and "  [OWNER]" or "")
+        tLbl.TextColor3         = KS.owner and C.gold or C.text
+        tLbl.Font               = Enum.Font.GothamBlack
+        tLbl.TextSize           = 17
+        tLbl.TextXAlignment     = Enum.TextXAlignment.Left
+        tLbl.ZIndex             = 12
+        glowText(tLbl, SS.TextEffect, KS.owner and C.gold or C.gradA, KS.owner and C.warn or C.gradB, C.text)
+
+        local sLbl = Instance.new("TextLabel", hdr)
+        sLbl.Size               = UDim2.new(1, -8, 0, 14)
+        sLbl.Position           = UDim2.new(0, 8, 0, 30)
+        sLbl.BackgroundTransparency = 1
+        sLbl.Text               = "discord.gg/7BbXjqWFmA  Â·  RightShift = Ø¥Ø®ÙØ§Ø¡"
+        sLbl.TextColor3         = C.textDim
+        sLbl.Font               = Enum.Font.GothamBold
+        sLbl.TextSize           = 9
+        sLbl.TextXAlignment     = Enum.TextXAlignment.Left
+        sLbl.ZIndex             = 12
+        glowText(sLbl, SS.TextEffect * 0.5)
+
+        -- Minimize button
+        local minBtnPC = Instance.new("TextButton", hdr)
+        minBtnPC.Size               = UDim2.new(0, 26, 0, 26)
+        minBtnPC.Position           = UDim2.new(1, -58, 0.5, -13)
+        minBtnPC.BackgroundColor3   = Color3.fromRGB(18, 38, 80)
+        minBtnPC.BackgroundTransparency = 0.18
+        minBtnPC.BorderSizePixel    = 0
+        minBtnPC.Text               = "â€”"
+        minBtnPC.TextColor3         = C.accent
+        minBtnPC.Font               = Enum.Font.GothamBlack
+        minBtnPC.TextSize           = 14
+        minBtnPC.AutoButtonColor    = false
+        minBtnPC.ZIndex             = 15
+        mkCorner(minBtnPC, 7)
+        glowBorder(minBtnPC, SS.CloseBtn, 1.1, C.accent, C.neon)
+        local pcFull = UDim2.new(0, 440, 0, 460)
+        local pcMini = UDim2.new(0, 440, 0, 48)
+        local pcMin  = false
+        minBtnPC.Activated:Connect(function()
+            pcMin = not pcMin
+            tween(main, {Size = pcMin and pcMini or pcFull}, 0.22, Enum.EasingStyle.Quart):Play()
+            minBtnPC.Text = pcMin and "â–¡" or "â€”"
+        end)
+
+        -- Close button
+        local clBtn = Instance.new("TextButton", hdr)
+        clBtn.Size               = UDim2.new(0, 26, 0, 26)
+        clBtn.Position           = UDim2.new(1, -28, 0.5, -13)
+        clBtn.BackgroundColor3   = Color3.fromRGB(60, 10, 10)
+        clBtn.BackgroundTransparency = 0.18
+        clBtn.BorderSizePixel    = 0
+        clBtn.Text               = "âœ•"
+        clBtn.TextColor3         = C.danger
+        clBtn.Font               = Enum.Font.GothamBlack
+        clBtn.TextSize           = 14
+        clBtn.AutoButtonColor    = false
+        clBtn.ZIndex             = 15
+        mkCorner(clBtn, 7)
+        glowBorder(clBtn, SS.CloseBtn, 1.1, C.danger, C.warn)
+        clBtn.Activated:Connect(function()
+            forceStopAll(); stopSpeed(); stopAntiRag(); stopIS(); stopFastSteal()
+            stopGalaxy(); stopGSky(); stopFly(); stopNoClip(); stopAntiAFK()
+            stopAutoSteal(); stopESP(); stopHighlightESP(); stopChatSpy()
+            if inputConn then inputConn:Disconnect() end
+            if coordF and coordF.Parent then coordF:Destroy() end
+            if espFolder and espFolder.Parent then espFolder:Destroy() end
+            if chatSG and chatSG.Parent then chatSG:Destroy() end
+            sg:Destroy()
+        end)
+
+        -- Divider
+        local div = Instance.new("Frame", main)
+        div.Size             = UDim2.new(0.92, 0, 0, 1)
+        div.Position         = UDim2.new(0.04, 0, 0, 48)
+        div.BackgroundColor3 = C.border
+        div.BackgroundTransparency = 0.18
+        div.BorderSizePixel  = 0
+        div.ZIndex           = 12
+        glowBorder(div, SS.Divider, 0.8)
+
+        -- Columns
+        local left  = Instance.new("Frame", main)
+        left.Size   = UDim2.new(0.47, 0, 0, 500)
+        left.Position = UDim2.new(0.01, 0, 0, 54)
+        left.BackgroundTransparency = 1
+        left.ZIndex = 10
+
+        local right = Instance.new("Frame", main)
+        right.Size   = UDim2.new(0.47, 0, 0, 500)
+        right.Position = UDim2.new(0.52, 0, 0, 54)
+        right.BackgroundTransparency = 1
+        right.ZIndex = 10
+
+        local GAP = 5
+        local RH  = 32
+        local SH2 = 30
+        local AH  = 26
+        local ly, ry = 0, 0
+
+        -- LEFT COLUMN
+        buildToggle(left, ly, "Speed Boost",   "SpeedBoost",  function(s) if s then startSpeed()   else stopSpeed()    end end, RH, 10); ly = ly + RH + GAP
+        buildSlider(left, ly, "Boost Speed",   14, 90, "BoostSpeed",  nil); ly = ly + SH2 + GAP
+        buildSlider(left, ly, "Steal Speed",   10, 45, "StealSpeed",  nil); ly = ly + SH2 + GAP
+        buildToggle(left, ly, "Anti Ragdoll",  "AntiRagdoll", function(s) if s then startAntiRag() else stopAntiRag()  end end, RH, 10); ly = ly + RH + GAP
+        buildToggle(left, ly, "Insta Steal",   "InstaSteal",  function(s) if s then startIS()      else stopIS()       end end, RH, 10); ly = ly + RH + GAP
+        buildToggle(left, ly, "Fast Steal",    "FastSteal",   function(s) if s then startFastSteal() else stopFastSteal() end end, RH, 10); ly = ly + RH + GAP
+        buildToggle(left, ly, "Auto Steal",    "AutoSteal",   function(s) if s then startAutoSteal() else stopAutoSteal() end end, RH, 10); ly = ly + RH + GAP
+        buildSlider(left, ly, "Steal Radius",  5, 24, "StealRadius",  nil); ly = ly + SH2 + GAP
+
+        -- keybind rows
+        local function buildKeyToggle(parent, y, label, eKey, onToggle)
+            local row = buildToggle(parent, y, label, eKey, onToggle, RH, 10)
+            local kbLbl = Instance.new("TextLabel", row)
+            kbLbl.Size               = UDim2.new(0, 28, 0, 15)
+            kbLbl.Position           = UDim2.new(1, -70, 0.5, -7)
+            kbLbl.BackgroundColor3   = Color3.fromRGB(16, 24, 40)
+            kbLbl.BackgroundTransparency = 0.18
+            kbLbl.Text               = KB[eKey] or "?"
+            kbLbl.TextColor3         = C.accent
+            kbLbl.Font               = Enum.Font.GothamBold
+            kbLbl.TextSize           = 9
+            kbLbl.TextXAlignment     = Enum.TextXAlignment.Center
+            kbLbl.ZIndex             = 16
+            mkCorner(kbLbl, 5)
+            glowBorder(kbLbl, SS.KeybindBox, 0.7, C.accent, C.neon)
+            KBL[eKey] = kbLbl
+            kbLbl.InputBegan:Connect(function(inp)
+                if inp.UserInputType ~= Enum.UserInputType.MouseButton1 then return end
+                if listeningKB then
+                    if KBL[listeningKB] then KBL[listeningKB].TextColor3 = C.accent end
+                end
+                listeningKB = eKey; kbLbl.Text = "..."; kbLbl.TextColor3 = C.gold
+            end)
+            KBA[eKey] = function() if VSets[eKey] then VSets[eKey](not En[eKey]) end end
+        end
+
+        buildKeyToggle(left, ly, "Lock Target",  "Lock",      function(s) if s then setMoveMode("Lock",startLock) else stopLock() end end); ly = ly + RH + GAP
+        buildKeyToggle(left, ly, "Auto Left",    "AutoLeft",  function(s) if s then setMoveMode("AutoLeft",startAL) else stopAL() end end); ly = ly + RH + GAP
+        buildKeyToggle(left, ly, "Auto Right",   "AutoRight", function(s) if s then setMoveMode("AutoRight",startAR) else stopAR() end end); ly = ly + RH + GAP
+
+        -- RIGHT COLUMN
+        buildToggle(right, ry, "Galaxy Jump",   "Galaxy",       function(s) En.Galaxy=s;     if s then startGalaxy()    else stopGalaxy()       end end, RH, 10); ry = ry + RH + GAP
+        buildSlider(right, ry, "Hop Power",     10, 80, "HopPower", nil); ry = ry + SH2 + GAP
+        buildToggle(right, ry, "Galaxy Sky",    "GalaxySky",    function(s) En.GalaxySky=s;  if s then startGSky()      else stopGSky()         end end, RH, 10); ry = ry + RH + GAP
+        buildToggle(right, ry, "Fly Mode",      "Fly",          function(s) En.Fly=s;        if s then startFly()       else stopFly()          end end, RH, 10); ry = ry + RH + GAP
+        buildSlider(right, ry, "Fly Speed",     10, 90, "FlySpeed", nil); ry = ry + SH2 + GAP
+        buildToggle(right, ry, "NoClip",        "NoClip",       function(s) En.NoClip=s;     if s then startNoClip()    else stopNoClip()       end end, RH, 10); ry = ry + RH + GAP
+        buildToggle(right, ry, "Player ESP",    "PlayerESP",    function(s) En.PlayerESP=s;  if s then startESP()       else stopESP()          end end, RH, 10); ry = ry + RH + GAP
+        buildToggle(right, ry, "Highlight ESP", "HighlightESP", function(s) En.HighlightESP=s; if s then startHighlightESP() else stopHighlightESP() end end, RH, 10); ry = ry + RH + GAP
+        buildToggle(right, ry, "Chat Spy",      "ChatSpy",      function(s) En.ChatSpy=s;    if s then startChatSpy()   else stopChatSpy()      end end, RH, 10); ry = ry + RH + GAP
+        buildToggle(right, ry, "Anti AFK",      "AntiAFK",      function(s) En.AntiAFK=s;    if s then startAntiAFK()   else stopAntiAFK()      end end, RH, 10); ry = ry + RH + GAP
+
+        buildKeyToggle(right, ry, "TP Down", "TPDown", function(s) if s then task.spawn(execTPD) end end); ry = ry + RH + GAP
+        buildKeyToggle(right, ry, "Drop",    "Drop",   function(s) if s then task.spawn(execDrop) end end); ry = ry + RH + GAP + 4
+
+        buildActionBtn(right, ry, "âš¡  Normal Mode", function(b) doNormal(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="âš¡  Normal Mode" end end) end, AH, 10, C.success, C.neon); ry = ry + AH + GAP
+        buildActionBtn(right, ry, "ðŸ¢  Lagger Mode", function(b) doLagger(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="ðŸ¢  Lagger Mode" end end) end, AH, 10, C.warn, C.gold);    ry = ry + AH + GAP
+        buildActionBtn(right, ry, "ðŸ”¥  Max Mode",    function(b) doMaxMode(); b.Text="âœ” ØªÙ…!"; task.delay(1.3,function() if b and b.Parent then b.Text="ðŸ”¥  Max Mode" end end) end,  AH, 10, C.danger, C.purple);  ry = ry + AH + GAP
+        buildActionBtn(right, ry, "ðŸ”„  Rejoin",      function() doRejoin() end, AH, 10, C.purple, C.neon)
+
+        -- Clamp to screen
+        local function clampMain()
+            if not main or not main.Parent then return end
+            local sc = uiSc.Scale
+            local vp = Camera.ViewportSize
+            local fw = main.Size.X.Offset * sc
+            local fh = main.Size.Y.Offset * sc
+            local cx = main.Position.X.Offset
+            local cy = main.Position.Y.Offset
+            cx = math.clamp(cx, fw/2, vp.X - fw/2)
+            cy = math.clamp(cy, fh/2, vp.Y - fh/2)
+            main.Position = UDim2.new(0, cx, 0, cy)
+        end
+        task.spawn(function()
+            while sg and sg.Parent do clampMain(); task.wait(0.3) end
+        end)
+
+        hideGUI = function() main.Visible = false; guiVisible = false end
+        showGUI = function() main.Visible = true;  guiVisible = true  end
+
+        notify("AETHER V4", "ØªÙ… Ø§Ù„ØªØ­Ù…ÙŠÙ„ Ø¨Ù†Ø¬Ø§Ø­ Ø¹Ù„Ù‰ PC  |  RightShift Ù„Ù„Ø¥Ø®ÙØ§Ø¡", "success", 4)
+    end
+
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    -- GLOBAL KEYBINDS (PC)
+    -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+    inputConn = UserInputService.InputBegan:Connect(function(inp, gp)
+        if gp then return end
+        if inp.UserInputType ~= Enum.UserInputType.Keyboard then return end
+        local kn = inp.KeyCode.Name
+
+        -- Toggle GUI
+        if kn == KB.ToggleGUI then
+            if guiVisible then hideGUI() else showGUI() end
+            return
+        end
+
+        -- Rebind mode
+        if listeningKB then
+            if kn == "Escape" then
+                if KBL[listeningKB] then
+                    KBL[listeningKB].Text      = KB[listeningKB]
+                    KBL[listeningKB].TextColor3 = C.accent
+                end
+                listeningKB = nil; return
+            end
+            KB[listeningKB] = kn
+            if KBL[listeningKB] then
+                KBL[listeningKB].Text      = kn
+                KBL[listeningKB].TextColor3 = C.accent
+            end
+            notify("Keybind", "ØªÙ… ØªØºÙŠÙŠØ± Ø§Ù„Ù…ÙØªØ§Ø­ Ø¥Ù„Ù‰: " .. kn, "system", 2)
+            listeningKB = nil; return
+        end
+
+        -- Fire keybind actions
+        for eKey, key in pairs(KB) do
+            if kn == key and KBA[eKey] then KBA[eKey]() end
+        end
+    end)
+
+    -- Character respawn handling
+    Player.CharacterAdded:Connect(function()
+        task.wait(1)
+        if En.AntiRagdoll and #arConns == 0 then startAntiRag() end
+        if En.Galaxy      then startGalaxy() end
+        if En.Fly         then task.wait(0.5); startFly() end
+        if En.NoClip      then startNoClip() end
+    end)
+
+    print("[AetherV4] âœ“ Fully loaded | Mode:", scriptVersion, "| Owner:", KS.owner, "| Free:", KS.free)
+end
