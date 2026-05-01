@@ -1,15 +1,4 @@
-الخطأ اللي يطلع لك في الكونسول هو: `attempt to call a nil value` والسبب أنه تم استدعاء دالة **قبل تعريفها**.
 
-في الكود السابق، كتبنا `connectTouch(kBtn, function() ... end)` في سطر 89، بينما دالة `connectTouch` نفسها تم تعريفها في سطر 92! (لغة lua تقرأ من فوق لتحت، فلا تعرف الدالة إلا بعد سطر تعريفها).
-
-بالإضافة لذلك، نظام القفل (Lock) القديم كان يعتمد على حذف أجسام غير موجودة مما يسسب نفس الخطأ.
-
-**تم إصلاح المشكلة نهائياً** عن طريق نقل تعريف الدوال الأساسية لأعلى الكود مباشرة، وتبسيط نظام القفل ليعتمد على الريجستر فقط بدون أخطاء. 
-
-تفضل انسخ هذا الكود، هو مضمون 100% يشغل بدون أي أخطاء:
-
-```lua
--- ===== AETHER HUB V3 - ZERO ERRORS BUILD =====
 repeat task.wait() until game:IsLoaded()
 
 local Players = game:GetService("Players")
@@ -324,5 +313,5 @@ function startMainScript(scriptVersion)
 
     task.spawn(function() task.wait(1); Enabled.SpeedBoost = true; startSpeedBoost(); if VisualSetters.SpeedBoost then VisualSetters.SpeedBoost(true, true) end; Enabled.AntiRagdoll = true; startAntiRagdoll(); if VisualSetters.AntiRagdoll then VisualSetters.AntiRagdoll(true, true) end end)
     notify("AETHER V3", "UI Loaded Successfully!", "success", 3)
-end
-```
+  end
+end)
