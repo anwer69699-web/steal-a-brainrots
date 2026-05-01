@@ -1,52 +1,3 @@
---[[
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘             AETHER HUB V4  â€”  ULTIMATE EDITION              â•‘
-â•‘   Platform : Mobile + PC  |  Full Systems  |  Clean Code    â•‘
-â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
-â•‘  [+] Owner key works for ANY user (no UID restriction)      â•‘
-â•‘  [+] Free key works perfectly                               â•‘
-â•‘  [+] Premium notification system (icons + colors + anim)    â•‘
-â•‘  [+] Adaptive layout â€” measures screen first, fits all      â•‘
-â•‘  [+] Drag fixed â€” polls InputObject, zero camera bug        â•‘
-â•‘  [+] Active buttons â†’ green text + animated glow            â•‘
-â•‘  [+] Settings: organized, scrollable, functional            â•‘
-â•‘  [+] Galaxy: jump boost ONLY, adjustable power              â•‘
-â•‘  [+] Lock: Y-axis rotation ONLY, no forced movement         â•‘
-â•‘  [+] Auto Steal loop (continuous proximity prompt fire)      â•‘
-â•‘  [+] Fly mode (toggle, adjustable speed)                    â•‘
-â•‘  [+] NoClip (ghost through walls)                           â•‘
-â•‘  [+] Anti-AFK                                               â•‘
-â•‘  [+] Rejoin button                                          â•‘
-â•‘  [+] Chat spy (local ESP chat labels)                       â•‘
-â•‘  [+] Highlight ESP (red highlight on enemies)               â•‘
-â•‘  [+] Speed steal radius slider                              â•‘
-â•‘  [+] Auto collect (auto-steal all nearby)                   â•‘
-â•‘  [+] Better minimize/maximize with smooth animation         â•‘
-â•‘  [+] Gradient border on ALL elements                        â•‘
-â•‘  [+] TextEffect gradient speed from SS table                â•‘
-â•‘  [+] pcall everywhere â€” zero crash guarantee                â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-]]
-
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--- [1] SPEED SETTINGS â€” controls all animation speeds
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-local SS = {
-    MainBorder   = 7,    -- main frame border rotation speed
-    ButtonBorder = 0.6,  -- button border rotation speed
-    RowBorder    = 2.2,  -- row/card border rotation speed
-    TextEffect   = 0.8,  -- text gradient rotation speed
-    SliderTrack  = 1.8,  -- slider border speed
-    CloseBtn     = 3.5,  -- close/min button border speed
-    Divider      = 2.5,  -- divider glow speed
-    KeybindBox   = 2.0,  -- keybind label border speed
-    NotifBorder  = 4.0,  -- notification card border speed
-    Pulse        = 0.04, -- heartbeat delay for pulse effects
-}
-
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--- [2] SERVICES
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 repeat task.wait() until game:IsLoaded()
 
 local Players          = game:GetService("Players")
@@ -54,55 +5,35 @@ local RunService       = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local TweenService     = game:GetService("TweenService")
 local Lighting         = game:GetService("Lighting")
-local HttpService      = game:GetService("HttpService")
-local StarterGui       = game:GetService("StarterGui")
-local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Player           = Players.LocalPlayer
 local Camera           = workspace.CurrentCamera
+local IS_MOBILE        = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
 
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--- [3] PLATFORM
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-local IS_MOBILE = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
-local IS_PC     = not IS_MOBILE
+local SS = { Main=7, Btn=0.55, Row=2.1, Text=0.82, Slider=1.6, Close=3.2, Div=2.4, KB=1.9, Notif=3.8 }
 
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--- [4] KEY CONFIG
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 local KC = {
-    KeysURL     = "https://pastebin.com/raw/YOUR_PASTE_ID",
-    MaxKeyLen   = 32,
-    -- Owner key: works for ANY player who enters it
-    OwnerKey    = "AETHER-OWNER-X7K9P2LQ8Z1M5T",
-    -- Free key: works for everyone, grants full access
-    FreeKey     = "AETHER-FREE-2024XZQMVR",
-    FreeEnabled = true,
+    URL        = "https://pastebin.com/raw/YOUR_PASTE_ID",
+    MaxLen     = 26,
+    MinLen     = 10,
+    OwnerKey   = "Aether-Owner-V4-S3CR3T",
+    FreeKey    = "Aether-Free-OpenAccess",
+    FreeOn     = true,
+    AllowedPat = "^[A-Za-z0-9%-]+$",
+    Prefix     = "aether%-",
 }
 
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--- [5] THEME
--- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 local C = {
-    bg        = Color3.fromRGB(6,   10,  18),
-    card      = Color3.fromRGB(13,  19,  30),
-    cardHov   = Color3.fromRGB(18,  28,  44),
-    border    = Color3.fromRGB(45,  75,  130),
-    text      = Color3.fromRGB(235, 242, 255),
-    textDim   = Color3.fromRGB(155, 175, 210),
-    accent    = Color3.fromRGB(75,  145, 255),
-    success   = Color3.fromRGB(55,  215, 125),
-    danger    = Color3.fromRGB(255, 60,  75),
-    warn      = Color3.fromRGB(255, 185, 50),
-    gold      = Color3.fromRGB(255, 205, 45),
-    neon      = Color3.fromRGB(95,  195, 255),
-    purple    = Color3.fromRGB(155, 90,  255),
-    btnOff    = Color3.fromRGB(16,  24,  38),
-    btnOn     = Color3.fromRGB(8,   46,  28),
-    textOn    = Color3.fromRGB(55,  235, 125),
-    gradA     = Color3.fromRGB(55,  95,  200),
-    gradB     = Color3.fromRGB(145, 195, 255),
-    gradC     = Color3.fromRGB(255, 255, 255),
-}
+    bg      = Color3.fromRGB(6,10,18),
+    card    = Color3.fromRGB(13,19,30),
+    border  = Color3.fromRGB(45,75,130),
+    text    = Color3.fromRGB(235,242,255),
+    dim     = Color3.fromRGB(155,175,210),
+    accent  = Color3.fromRGB(75,145,255),
+    ok      = Color3.fromRGB(55,215,125),
+    err     = Color3.fromRGB(255,60,75),
+    warn    = Color3.fromRGB(255,185,50),
+    gold    = Color3.fromRGB(255,205,45),
+    neon    = Color3.fromRGB(95,195,255),
 
 -- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 -- [6] UTILITY
